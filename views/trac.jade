@@ -1,0 +1,101 @@
+extends layout-demo
+include mixin-menu
+
+block stylesheets
+	link(rel="stylesheet",href="/stylesheets/graph.css")
+
+block sidebar
+	+menuOfActive('trac')
+
+block content
+	section.choice-section(style="margin:0 auto",id="choice-section")
+		div(style="padding:10px")
+			a.btn.btn-differShow.active(style="",href="#choice-section",id="wordpress") 关系网络演化
+			a.btn.btn-differShow(style="",href="#table-section",id="trac") 分离关系网络
+		div.choice-section-content
+			table.choice-section-table
+				tr(style="margin:10px auto")
+					p(style="padding:5px 5px;") @ 通过选择项目的开发版本和开发者网络以来类型，来查看开发者社交网络不同版本的迭代，演化关系网络图。
+					p(style="padding:5px 5px;") @ 如果进行版本的多重选择，则生成项目演化关系网络图，如果多种版本比较，则是项目不同关系网络的合成图。
+				tr(style="margin:10px auto")
+					td
+						lable(style="padding:0 10px;")= "项目版本选择"
+					td
+						div.btn-group(data-toggle="buttons")
+							label.btn.version.btn-choice 05
+								input(type="checkbox") 
+							label.btn.version.btn-choice 06
+								input(type="checkbox") 
+							label.btn.version.btn-choice 07
+								input(type="checkbox")
+							label.btn.version.btn-choice 08
+								input(type="checkbox")
+							label.btn.version.btn-choice 09
+								input(type="checkbox")
+							label.btn.version.btn-choice 10
+								input(type="checkbox")
+							label.btn.version.btn-choice 010
+								input(type="checkbox")
+							label.btn.version.btn-choice 11
+								input(type="checkbox")
+							label.btn.version.btn-choice 011
+								input(type="checkbox") 
+							label.btn.version.btn-choice 012
+								input(type="checkbox") 
+				tr(style="margin:20px auto")
+					td
+						lable(style="padding:0 10px;")= "开发者社交网络多重选择"
+					td
+						div.btn-group(data-toggle="buttons")
+							label.btn.developer.btn-choice developer_comment
+								input(type="checkbox") 
+							label.btn.developer.btn-choice developer_commit
+								input(type="checkbox") 
+							label.btn.developer.btn-choice developer_work
+								input(type="checkbox") 
+	section.graph-secion(style="min-height:500px;border-bottom:2px solid #428bca")
+		p(style="padding:5px 5px;text-align:center;color:#428bca;font-size:25px") 开发者社交网络关系图
+		div.graph-section-content(id="graph")
+	section.parallel-secion(style="border-top:2px solid #428bca")
+		p(style="padding:5px 5px;text-align:center;color:#428bca;font-size:25px") 开发者社交网络粒度分析平行表
+		div.graph-section-content(id="parallel")
+	section.table-section(id="table-section")
+		div(style="padding:10px")
+			a.btn.btn-differShow(style="",href="#choice-section",id="wordpress") 关系网络演化
+			a.btn.btn-differShow.active(style="",href="#table-section",id="trac") 分离关系网络
+		div.table-section-content
+			table
+				tr(style="margin:10px auto")
+					td
+						lable(style="padding:0 10px;")= "选择开发版本"
+					td
+						select(id="version-selector",style="min-height:50px;min-width:100px")
+							option= "05"
+							option= "06"
+							option= "07"
+							option= "08"
+							option= "09"
+							option= "10"
+							option= "010"
+							option= "11"
+							option= "011"
+							option= "012"
+			table.table(id="TT-analysis",style="display:block")
+	section.detailed-graph-section(id="detailed-graph-section")
+		div.row(style="margin:10px auto;max-width:888px")
+			ul.nav.nav-tabs(id="graph-tab")
+				li
+					a(href="#developer-graph",data-toggle="tab") developer
+				li
+					a(href="#file-graph",data-toggle="tab") file
+			div.tab-content
+				div.tab-pane(style="margin:10px",id="developer-graph")
+					div.col-md-12(id="developer-comment",style="border:1px solid #000000;margin:10px 0px")
+						lable= "developer-comment-network" 
+					div.col-md-12(id="developer-commit",style="border:1px solid #000000;margin:10px 0px")
+						lable= "developer-commit-network" 
+					div.col-md-12(id="developer-work",style="border:1px solid #000000;margin:10px 0px") 
+						lable= "developer-work-network"        	
+block javascripts	     	
+	script(src="/javascripts/d3.v3.min.js")
+	script(src="/javascripts/demo-trac-graph.js")

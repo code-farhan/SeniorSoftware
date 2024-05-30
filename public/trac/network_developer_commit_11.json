@@ -1,0 +1,67 @@
+[
+    {
+        "developer1": "cboos",
+        "developer2": "rblank",
+        "count": 69
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jomae",
+        "count": 27
+    },
+    {
+        "developer1": "jomae",
+        "developer2": "rblank",
+        "count": 36
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "psuter",
+        "count": 9
+    },
+    {
+        "developer1": "jomae",
+        "developer2": "psuter",
+        "count": 5
+    },
+    {
+        "developer1": "psuter",
+        "developer2": "rblank",
+        "count": 14
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "rjollos",
+        "count": 7
+    },
+    {
+        "developer1": "jomae",
+        "developer2": "rjollos",
+        "count": 3
+    },
+    {
+        "developer1": "psuter",
+        "developer2": "rjollos",
+        "count": 2
+    },
+    {
+        "developer1": "rblank",
+        "developer2": "rjollos",
+        "count": 7
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "dstoecker",
+        "count": 15
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "mrelbe",
+        "count": 4
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "lgaifax",
+        "count": 2
+    }
+]

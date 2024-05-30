@@ -1,0 +1,52 @@
+[
+    {
+        "developer1": "markjaquith",
+        "developer2": "matt",
+        "count": 981
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "rob1n",
+        "count": 1184
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 1469
+    },
+    {
+        "developer1": "matt",
+        "developer2": "rob1n",
+        "count": 926
+    },
+    {
+        "developer1": "matt",
+        "developer2": "ryan",
+        "count": 1171
+    },
+    {
+        "developer1": "rob1n",
+        "developer2": "ryan",
+        "count": 1446
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 114
+    },
+    {
+        "developer1": "matt",
+        "developer2": "westi",
+        "count": 78
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 128
+    },
+    {
+        "developer1": "rob1n",
+        "developer2": "westi",
+        "count": 102
+    }
+]

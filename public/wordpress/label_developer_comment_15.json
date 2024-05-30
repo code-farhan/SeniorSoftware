@@ -1,0 +1,809 @@
+{
+    "nodes": [
+        {
+            "label": "anonymous"
+        },
+        {
+            "label": "azaozz"
+        },
+        {
+            "label": "dd32"
+        },
+        {
+            "label": "markjaquith"
+        },
+        {
+            "label": "matt"
+        },
+        {
+            "label": "nacin"
+        },
+        {
+            "label": "ryan"
+        },
+        {
+            "label": "westi"
+        },
+        {
+            "label": "mikelittle"
+        },
+        {
+            "label": "nbachiyski"
+        },
+        {
+            "label": "rboren"
+        },
+        {
+            "label": "saxmatt"
+        },
+        {
+            "label": "wpmuguru"
+        },
+        {
+            "label": "iandstewart"
+        },
+        {
+            "label": "lancewillett"
+        },
+        {
+            "label": "duck_"
+        },
+        {
+            "label": "koopersmith"
+        },
+        {
+            "label": "scribu"
+        },
+        {
+            "label": "emc3"
+        },
+        {
+            "label": "jverber"
+        },
+        {
+            "label": "rob1n"
+        },
+        {
+            "label": "michelvaldrighi"
+        },
+        {
+            "label": "iammattthomas"
+        },
+        {
+            "label": "alex_t_king"
+        },
+        {
+            "label": "donncha"
+        },
+        {
+            "label": "SergeyBiryukov"
+        },
+        {
+            "label": "PeteMall"
+        },
+        {
+            "label": "bumpbot"
+        },
+        {
+            "label": "helen"
+        },
+        {
+            "label": "uid26904"
+        },
+        {
+            "label": "josephscott"
+        },
+        {
+            "label": "dougal"
+        },
+        {
+            "label": "potbot"
+        }
+    ],
+    "links": [
+        {
+            "source": 4,
+            "target": 6,
+            "weight": 0.9974994915304705
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 0.9668511767173186
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 0.981528351875022
+        },
+        {
+            "source": 4,
+            "target": 4,
+            "weight": 0.9716027772170491
+        },
+        {
+            "source": 9,
+            "target": 6,
+            "weight": 0.9528231218340806
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "weight": 0.9570690332097
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "weight": 0.9519971322501077
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "weight": 0.9581916384398936
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "weight": 0.9953205410158261
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "weight": 0.9576857050531543
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "weight": 0.9643893327447586
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "weight": 0.9752268008654936
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "weight": 0.9910631859442218
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "weight": 0.9566386277438141
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "weight": 0.9567965791677124
+        },
+        {
+            "source": 31,
+            "target": 4,
+            "weight": 0.9655993827502243
+        },
+        {
+            "source": 31,
+            "target": 6,
+            "weight": 0.9566236035549082
+        },
+        {
+            "source": 31,
+            "target": 6,
+            "weight": 0.953447588707786
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "weight": 0.9533035346539691
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "weight": 0.9814741106703877
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "weight": 0.9570893498021178
+        },
+        {
+            "source": 5,
+            "target": 17,
+            "weight": 0.951543118734844
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "weight": 0.991070062876679
+        },
+        {
+            "source": 3,
+            "target": 20,
+            "weight": 0.9894495063577778
+        },
+        {
+            "source": 4,
+            "target": 20,
+            "weight": 0.97543487069197
+        },
+        {
+            "source": 20,
+            "target": 6,
+            "weight": 0.9621699339943006
+        },
+        {
+            "source": 31,
+            "target": 3,
+            "weight": 0.976084420341067
+        },
+        {
+            "source": 31,
+            "target": 20,
+            "weight": 0.9638306328793987
+        },
+        {
+            "source": 31,
+            "target": 7,
+            "weight": 0.9649494040873833
+        },
+        {
+            "source": 20,
+            "target": 7,
+            "weight": 0.9841749960789457
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "weight": 0.9517031698604114
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "weight": 0.9705057650804519
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "weight": 0.9784393069334327
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "weight": 0.9677621008595452
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "weight": 0.978968075744342
+        },
+        {
+            "source": 0,
+            "target": 20,
+            "weight": 0.9886983834672719
+        },
+        {
+            "source": 24,
+            "target": 6,
+            "weight": 0.9887791032437234
+        }
+    ],
+    "labelAnchors": [
+        {
+            "node": {
+                "label": "anonymous"
+            }
+        },
+        {
+            "node": {
+                "label": "anonymous"
+            }
+        },
+        {
+            "node": {
+                "label": "azaozz"
+            }
+        },
+        {
+            "node": {
+                "label": "azaozz"
+            }
+        },
+        {
+            "node": {
+                "label": "dd32"
+            }
+        },
+        {
+            "node": {
+                "label": "dd32"
+            }
+        },
+        {
+            "node": {
+                "label": "markjaquith"
+            }
+        },
+        {
+            "node": {
+                "label": "markjaquith"
+            }
+        },
+        {
+            "node": {
+                "label": "matt"
+            }
+        },
+        {
+            "node": {
+                "label": "matt"
+            }
+        },
+        {
+            "node": {
+                "label": "nacin"
+            }
+        },
+        {
+            "node": {
+                "label": "nacin"
+            }
+        },
+        {
+            "node": {
+                "label": "ryan"
+            }
+        },
+        {
+            "node": {
+                "label": "ryan"
+            }
+        },
+        {
+            "node": {
+                "label": "westi"
+            }
+        },
+        {
+            "node": {
+                "label": "westi"
+            }
+        },
+        {
+            "node": {
+                "label": "mikelittle"
+            }
+        },
+        {
+            "node": {
+                "label": "mikelittle"
+            }
+        },
+        {
+            "node": {
+                "label": "nbachiyski"
+            }
+        },
+        {
+            "node": {
+                "label": "nbachiyski"
+            }
+        },
+        {
+            "node": {
+                "label": "rboren"
+            }
+        },
+        {
+            "node": {
+                "label": "rboren"
+            }
+        },
+        {
+            "node": {
+                "label": "saxmatt"
+            }
+        },
+        {
+            "node": {
+                "label": "saxmatt"
+            }
+        },
+        {
+            "node": {
+                "label": "wpmuguru"
+            }
+        },
+        {
+            "node": {
+                "label": "wpmuguru"
+            }
+        },
+        {
+            "node": {
+                "label": "iandstewart"
+            }
+        },
+        {
+            "node": {
+                "label": "iandstewart"
+            }
+        },
+        {
+            "node": {
+                "label": "lancewillett"
+            }
+        },
+        {
+            "node": {
+                "label": "lancewillett"
+            }
+        },
+        {
+            "node": {
+                "label": "duck_"
+            }
+        },
+        {
+            "node": {
+                "label": "duck_"
+            }
+        },
+        {
+            "node": {
+                "label": "koopersmith"
+            }
+        },
+        {
+            "node": {
+                "label": "koopersmith"
+            }
+        },
+        {
+            "node": {
+                "label": "scribu"
+            }
+        },
+        {
+            "node": {
+                "label": "scribu"
+            }
+        },
+        {
+            "node": {
+                "label": "emc3"
+            }
+        },
+        {
+            "node": {
+                "label": "emc3"
+            }
+        },
+        {
+            "node": {
+                "label": "jverber"
+            }
+        },
+        {
+            "node": {
+                "label": "jverber"
+            }
+        },
+        {
+            "node": {
+                "label": "rob1n"
+            }
+        },
+        {
+            "node": {
+                "label": "rob1n"
+            }
+        },
+        {
+            "node": {
+                "label": "michelvaldrighi"
+            }
+        },
+        {
+            "node": {
+                "label": "michelvaldrighi"
+            }
+        },
+        {
+            "node": {
+                "label": "iammattthomas"
+            }
+        },
+        {
+            "node": {
+                "label": "iammattthomas"
+            }
+        },
+        {
+            "node": {
+                "label": "alex_t_king"
+            }
+        },
+        {
+            "node": {
+                "label": "alex_t_king"
+            }
+        },
+        {
+            "node": {
+                "label": "donncha"
+            }
+        },
+        {
+            "node": {
+                "label": "donncha"
+            }
+        },
+        {
+            "node": {
+                "label": "SergeyBiryukov"
+            }
+        },
+        {
+            "node": {
+                "label": "SergeyBiryukov"
+            }
+        },
+        {
+            "node": {
+                "label": "PeteMall"
+            }
+        },
+        {
+            "node": {
+                "label": "PeteMall"
+            }
+        },
+        {
+            "node": {
+                "label": "bumpbot"
+            }
+        },
+        {
+            "node": {
+                "label": "bumpbot"
+            }
+        },
+        {
+            "node": {
+                "label": "helen"
+            }
+        },
+        {
+            "node": {
+                "label": "helen"
+            }
+        },
+        {
+            "node": {
+                "label": "uid26904"
+            }
+        },
+        {
+            "node": {
+                "label": "uid26904"
+            }
+        },
+        {
+            "node": {
+                "label": "josephscott"
+            }
+        },
+        {
+            "node": {
+                "label": "josephscott"
+            }
+        },
+        {
+            "node": {
+                "label": "dougal"
+            }
+        },
+        {
+            "node": {
+                "label": "dougal"
+            }
+        },
+        {
+            "node": {
+                "label": "potbot"
+            }
+        },
+        {
+            "node": {
+                "label": "potbot"
+            }
+        }
+    ],
+    "labelAnchorLinks": [
+        {
+            "source": 8,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 18,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 17,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 12,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "source": 10,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 35,
+            "weight": 1
+        },
+        {
+            "source": 6,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "source": 8,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "source": 40,
+            "target": 13,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "source": 62,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 40,
+            "target": 15,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 19,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "weight": 1
+        },
+        {
+            "source": 0,
+            "target": 41,
+            "weight": 1
+        },
+        {
+            "source": 48,
+            "target": 13,
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+[
+    {
+        "developer1": "azaozz",
+        "developer2": "markjaquith",
+        "count": 37
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nacin",
+        "count": 68
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nacin",
+        "count": 49
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "ryan",
+        "count": 68
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 52
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "ryan",
+        "count": 112
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "westi",
+        "count": 19
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 19
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "westi",
+        "count": 33
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 35
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "markjaquith",
+        "count": 16
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nacin",
+        "count": 49
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "ryan",
+        "count": 34
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "westi",
+        "count": 11
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "dd32",
+        "count": 30
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "nacin",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "ryan",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "koopersmith",
+        "count": 35
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "koopersmith",
+        "count": 6
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "markjaquith",
+        "count": 35
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "nacin",
+        "count": 22
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "ryan",
+        "count": 23
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "westi",
+        "count": 3
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "iandstewart",
+        "count": 23
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "lancewillett",
+        "count": 20
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "lancewillett",
+        "count": 40
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "matt",
+        "count": 19
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "matt",
+        "count": 29
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "matt",
+        "count": 21
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "nacin",
+        "count": 40
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "nacin",
+        "count": 31
+    },
+    {
+        "developer1": "matt",
+        "developer2": "nacin",
+        "count": 27
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "ryan",
+        "count": 18
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "ryan",
+        "count": 17
+    },
+    {
+        "developer1": "matt",
+        "developer2": "ryan",
+        "count": 12
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "matt",
+        "count": 1
+    },
+    {
+        "developer1": "matt",
+        "developer2": "westi",
+        "count": 11
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "westi",
+        "count": 6
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "iandstewart",
+        "count": 18
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "lancewillett",
+        "count": 17
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "matt",
+        "count": 10
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "westi",
+        "count": 8
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nbachiyski",
+        "count": 1
+    },
+    {
+        "developer1": "iandstewart",
+        "developer2": "nbachiyski",
+        "count": 1
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "nbachiyski",
+        "count": 1
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "nbachiyski",
+        "count": 2
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "ryan",
+        "count": 2
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "potbot",
+        "count": 1
+    }
+]

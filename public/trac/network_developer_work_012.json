@@ -1,0 +1,107 @@
+[
+    {
+        "developer1": "cboos",
+        "developer2": "rblank",
+        "count": 27
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "rblank",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "osimons",
+        "count": 5
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jhampton",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jonas",
+        "count": 5
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jruigrok",
+        "count": 5
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "fschwarz",
+        "count": 2
+    },
+    {
+        "developer1": "fschwarz",
+        "developer2": "jruigrok",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "thatch",
+        "count": 2
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "cmlenz",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "nkantrowitz",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "nkantrowitz",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "nkantrowitz",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "rblank",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jomae",
+        "count": 2
+    },
+    {
+        "developer1": "ecarter",
+        "developer2": "rblank",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "dstoecker",
+        "count": 1
+    },
+    {
+        "developer1": "jomae",
+        "developer2": "rblank",
+        "count": 2
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "psuter",
+        "count": 1
+    },
+    {
+        "developer1": "fschwarz",
+        "developer2": "rblank",
+        "count": 1
+    }
+]

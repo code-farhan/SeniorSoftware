@@ -1,0 +1,7522 @@
+[
+    {
+        "file": ".",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": ".",
+        "version": "0.12",
+        "bugnum": 16
+    },
+    {
+        "file": ".",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": ".",
+        "version": "1.0",
+        "bugnum": 23
+    },
+    {
+        "file": ".",
+        "version": "1.1",
+        "bugnum": 34
+    },
+    {
+        "file": "cgi-bin/svntrac_auth.cgi",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "cgi-bin/trac.cgi",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "cgi-bin/trac.fcgi",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "ChangeLog",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "ChangeLog",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "ChangeLog",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "ChangeLog",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "ChangeLog",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "contrib/bugzilla2trac.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/bugzilla2trac.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "contrib/bugzilla2trac.py",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "contrib/bugzilla2trac.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/bugzilla2trac.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/checkwiki.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/emailfilter.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/emailfilter.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "contrib/htdigest.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/sourceforge2trac.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/sourceforge2trac.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/trac-post-commit-hook",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "contrib/trac-post-commit-hook",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "contrib/trac-post-commit-hook",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/trac-post-commit-hook",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "contrib/trac-pre-commit-hook",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/trac-pre-commit-hook",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/workflow/showworkflow",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/workflow/showworkflow",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/workflow/workflow_parser.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "contrib/workflow/workflow_parser.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "doc/api/trac_core.rst",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "doc/api/trac_web_api.rst",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/changeset.png",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/changeset.png",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/closedticket.png",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/closedticket.png",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.8",
+        "bugnum": 5
+    },
+    {
+        "file": "htdocs/css/browser.css",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/changeset.css",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "htdocs/css/changeset.css",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/code.css",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/code.css",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/code.css",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/code.css",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/diff.css",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "htdocs/css/diff.css",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "htdocs/css/diff.css",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/report.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/report.css",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/report.css",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/report.css",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/report.css",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/css/roadmap.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/roadmap.css",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/roadmap.css",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "htdocs/css/search.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/search.css",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/ticket.css",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/css/ticket.css",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/ticket.css",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/timeline.css",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/timeline.css",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/timeline.css",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/timeline.css",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.6",
+        "bugnum": 6
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.7",
+        "bugnum": 9
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.8",
+        "bugnum": 17
+    },
+    {
+        "file": "htdocs/css/trac.css",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "htdocs/css/wiki.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/css/wiki.css",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/css/wiki.css",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/js/diff.js",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/js/jquery.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/js/query.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/js/query.js",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/js/trac.js",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "htdocs/js/trac.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/js/trac.js",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/milestone.png",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/newticket.png",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/newticket.png",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/trac.css",
+        "version": "0.5",
+        "bugnum": 8
+    },
+    {
+        "file": "htdocs/trac.js",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/trac.js",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "htdocs/trac.js",
+        "version": "0.8",
+        "bugnum": 7
+    },
+    {
+        "file": "htdocs/wiki.png",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "htdocs/wiki.png",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "INSTALL",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "MANIFEST.in",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "MANIFEST.in",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "messages-js.cfg",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.11/mercurial-plugin/tracext/hg/backend.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.11/mercurial-plugin/tracext/hg/backend.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "plugins0.11/spam-filter/tracspamfilter/adapters.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "plugins0.11/spam-filter/tracspamfilter/api.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.11/spam-filter/tracspamfilter/templates/admin_bayes.cs",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.11/spam-filter/tracspamfilter/templates/admin_bayes.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/.",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/setup.cfg",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/setup.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/tracext/hg/backend.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/tracext/hg/backend.py",
+        "version": "1.0",
+        "bugnum": 12
+    },
+    {
+        "file": "plugins0.12/mercurial-plugin/tracext/hg/hooks.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/setup.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/adapters.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/admin.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/api.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/captcha/api.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/captcha/image.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/filters/bayes.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/filters/extlinks.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/model.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/templates/admin_bayes.cs",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.12/spam-filter-captcha/tracspamfilter/templates/admin_bayes.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.13/mercurial-plugin/.",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "plugins0.13/mercurial-plugin/setup.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "plugins0.13/mercurial-plugin/tracext/hg/backend.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "plugins1.0/spam-filter/tracspamfilter/timeoutserverproxy.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "RELEASE",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "RELEASE",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "sample-plugins/ticket_clone.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sample-plugins/Timestamp.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxi18n/trac/core.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxi18n/trac/util/translation.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxjquery/htdocs/js/trac.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxjquery/trac/web/chrome.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.11/setup.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.11/setup.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.11/tracext/hg/backend.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.11/tracext/hg/backend.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.12/setup.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.12/tracext/hg/backend.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmercurial-plugin-0.12/tracext/hg/backend.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "sandboxmercurial-plugin/README",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmercurial-plugin/setup.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmercurial-plugin/setup.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmercurial-plugin/tracvc/hg/backend.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "sandboxmercurial-plugin/tracvc/hg/backend.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/sample-plugins/commit_ticket_update.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxmultirepos/trac/admin/console.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/admin/tests/console-tests.txt",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/cache.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/db_default.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/env.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/mimeview/api.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/resource.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/upgrades/db22.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/upgrades/db23.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/admin.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/api.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/cache.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/svn_fs.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/svn_prop.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/admin_repositories.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/browser.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/changeset.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/dir_entries.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/repository_index.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/revisionlog.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/templates/revisionlog.rss",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/web_ui/browser.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/web_ui/log.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/versioncontrol/web_ui/log.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/trac/web/chrome.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxmultirepos/tracopt/ticket/commit_updater.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/.",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/cgi-bin",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/contrib",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/doc",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/htdocs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/htdocs/css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/htdocs/js",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/scripts",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/templates",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/mimeview",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/Notify.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/scripts",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/scripts/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/ticket",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/ticket/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/upgrades",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/versioncontrol",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/versioncontrol/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/versioncontrol/web_ui",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/web",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/web/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/wiki",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/trac/wiki/tests",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/wiki-default",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxnotification/wiki-macros",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxrework-testing/Makefile",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxrework-testing/trac/db/mysql_backend.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxrework-testing/trac/db/postgres_backend.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxrework-testing/trac/db/tests/backup.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxrework-testing/trac/db/tests/__init__.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxrework-testing/trac/test.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxrework-testing/trac/tests/functional/testenv.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxsecurity/templates/macros.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxsecurity/trac/attachment.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxsecurity/trac/perm.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxsecurity/trac/resource.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter-captcha/.",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter-captcha/setup.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter-captcha/tracspamfilter/adapters.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter-captcha/tracspamfilter/captcha/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/setup.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/adapters.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/adapters.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/adapters.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/api.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/filters/ip_blacklist.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/filters/regex.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/model.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/templates/admin_spamconfig.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxspam-filter/tracspamfilter/templates/admin_spammonitor.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxtesting/trac/admin/templates/admin.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/prefs/templates/prefs.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/templates/layout.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/templates/macros.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/tests/functional.py",
+        "version": "0.11",
+        "bugnum": 22
+    },
+    {
+        "file": "sandboxtesting/trac/tests/functional/tester.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/ticket/templates/report_edit.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/ticket/templates/report_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/ticket/tests/functional.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/ticket/web_ui.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "sandboxtesting/trac/upgrades/db21.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/web/chrome.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxtesting/trac/wiki/templates/wiki_diff.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/cgi-bin/trac.cgi",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/ChangeLog",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/contrib/emailfilter.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/css/browser.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/css/changeset.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/css/report.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/css/roadmap.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/css/trac.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/js/trac.js",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/htdocs/js/wikitoolbar.js",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/RELEASE",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/scripts/tracd",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/browser.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/changeset.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/error.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/log.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/log_changelog.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/log_rss.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/milestone.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/query.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/query_rss.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/report.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/roadmap.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/timeline_rss.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/templates/wiki.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/THANKS",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/attachment.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/config.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/core.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/db/pool.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/db/util.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/db_default.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/mimeview/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/mimeview/rst.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/perm.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/scripts/admin.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/scripts/tests/admin-tests.txt",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/Search.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/test.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/tests/attachment.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/model.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/query.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/report.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/roadmap.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/ticket/web_ui.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/Timeline.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/cache.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/diff.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/tests/cache.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/web_ui/browser.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/web_ui/log.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/web_ui/util.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/versioncontrol/web_ui/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/auth.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/cgi_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/chrome.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/fcgi_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/href.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/main.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/modpython_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/session.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/standalone.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/tests/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/tests/cgi_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/tests/chrome.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/web/tests/session.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/formatter.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/macros.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/model.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/tests/formatter.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/tests/wiki-tests.txt",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/wiki/web_ui.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/trac/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/wiki-default/checkwiki.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/wiki-default/TracChangeset",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxunicode/wiki-default/WikiStart",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/cache.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/web_ui/browser.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxvc-refactoring/trac/versioncontrol/web_ui/util.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin-genshi/webadmin/basics.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin-genshi/webadmin/logging.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin-genshi/webadmin/perm.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin-genshi/webadmin/plugin.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin-genshi/webadmin/ticket.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_component.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_enum.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_log.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_milestone.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_plugin.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/templates/admin_version.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwebadmin/webadmin/ticket.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-blame/trac/db_default.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-blame/trac/notification.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-blame/trac/templates/error.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-blame/trac/wiki/parser.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-blame/trac/wiki/tests/wiki-tests.txt",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/attachment.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/browser.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/changeset.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/macros.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/milestone_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/query.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/query_div.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/report.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/report_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/revisionlog.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/revisionlog.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/roadmap.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/ticket.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/ticket_diff.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/ticket_history.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/ticket_new.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/ticket_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/timeline.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/timeline.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/wiki_diff.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/wiki_edit.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/wiki_history.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/templates/wiki_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/attachment.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/env.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/enscript.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/patch.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/php.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/pygments_renderer.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/rst.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/silvercity.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/tests/patch.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/tests/pygments_renderer.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/mimeview/txtl.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/search/web_ui.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/tests/wikisyntax.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/query.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/report.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/roadmap.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/tests/query.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/ticket/web_ui.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/timeline/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/timeline/web_ui.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/versioncontrol/web_ui/browser.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/versioncontrol/web_ui/log.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/web/chrome.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/formatter.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/intertrac.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/macros.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/tests/formatter.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwiki-context-tmp/trac/wiki/web_ui.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/htdocs/css/changeset.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/htdocs/css/code.css",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/templates/macros.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/core.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/db/postgres_backend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/db_default.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/env.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/loader.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/tests/core.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/tests/env.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/api.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/field.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/model.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/notification.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/query.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/roadmap.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/ticket/web_ui.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/util/tests/text.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/util/__init__.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxworkflow/trac/versioncontrol/web_ui/browser.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "sandboxworkflow/trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/versioncontrol/web_ui/util.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/web/modpython_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/web/session.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/web/tests/chrome.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/web/tests/session.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxworkflow/trac/wiki/tests/model.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "sandboxwsgi/trac/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/initdb.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/trac-admin",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/trac-admin",
+        "version": "0.6",
+        "bugnum": 5
+    },
+    {
+        "file": "scripts/trac-admin",
+        "version": "0.7",
+        "bugnum": 7
+    },
+    {
+        "file": "scripts/trac-admin",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "scripts/trac-admin",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "scripts/trac-postinstall.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/trac-postinstall.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/tracd",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/tracd",
+        "version": "0.7",
+        "bugnum": 5
+    },
+    {
+        "file": "scripts/tracd",
+        "version": "0.8",
+        "bugnum": 5
+    },
+    {
+        "file": "scripts/tracd",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/tracdb2env",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "scripts/tracdb2env",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "scripts/trac_admin.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "setup.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "setup.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "setup.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "setup.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "setup.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "svntrac/Report.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "svntrac/svntrac.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "svntrac/Ticket.py",
+        "version": "0.5",
+        "bugnum": 3
+    },
+    {
+        "file": "svntrac/util.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "svntrac/Wiki.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/admin_milestones.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/anydiff.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/attachment.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/attachment.cs",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/attachment.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/attachment.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.5",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/browser.cs",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/browser.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/changeset.cs",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/changeset.cs",
+        "version": "0.5",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/changeset.cs",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/changeset.cs",
+        "version": "0.8",
+        "bugnum": 5
+    },
+    {
+        "file": "templates/changeset.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/changeset.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/css.cs",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/css.cs",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/diff_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/error.cs",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/error.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/file.cs",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/file.cs",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/footer.cs",
+        "version": "0.5",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/footer.cs",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/footer.cs",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/footer.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/header.cs",
+        "version": "0.5",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/header.cs",
+        "version": "0.6",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/header.cs",
+        "version": "0.7",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/header.cs",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/header.cs",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/layout.html",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "templates/log.cs",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/log.cs",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/log.cs",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/log.cs",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/log.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/log_rss.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/log_rss.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/log_rss.cs",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/log_rss.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/macros.cs",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "templates/macros.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/milestone.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/milestone.cs",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/milestone.cs",
+        "version": "0.9",
+        "bugnum": 7
+    },
+    {
+        "file": "templates/milestone_edit.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/milestone_view.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/newticket.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/newticket.cs",
+        "version": "0.6",
+        "bugnum": 6
+    },
+    {
+        "file": "templates/newticket.cs",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/newticket.cs",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/newticket.cs",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/newticket.template",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/prefs_datetime.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/query.cs",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/query.cs",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/query.cs",
+        "version": "0.9",
+        "bugnum": 10
+    },
+    {
+        "file": "templates/query.html",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/query_div.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/query_rss.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/query_rss.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/query_rss.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.5",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.6",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.8",
+        "bugnum": 5
+    },
+    {
+        "file": "templates/report.cs",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/report.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/report_rss.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/report_rss.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/report_rss.cs",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/report_rss.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/report_view.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/revisionlog.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/roadmap.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/roadmap.cs",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/roadmap.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/roadmap.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/search.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/search.cs",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/search.cs",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/search.cs",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/settings.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/settings.cs",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/settings.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/settings.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.5",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.6",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.8",
+        "bugnum": 13
+    },
+    {
+        "file": "templates/ticket.cs",
+        "version": "0.9",
+        "bugnum": 12
+    },
+    {
+        "file": "templates/ticket.template",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/ticket_diff.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket_history.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket_new.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket_notify_email.cs",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/ticket_notify_email.cs",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket_notify_email.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/ticket_rss.cs",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/ticket_rss.cs",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/ticket_view.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/timeline.cs",
+        "version": "0.5",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/timeline.cs",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/timeline.cs",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/timeline.cs",
+        "version": "0.8",
+        "bugnum": 6
+    },
+    {
+        "file": "templates/timeline.cs",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/timeline.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/timeline.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/timeline_rss.cs",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/timeline_rss.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "templates/timeline_rss.cs",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/timeline_rss.cs",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/timeline_rss.cs",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.10",
+        "bugnum": 7
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.5",
+        "bugnum": 4
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.7",
+        "bugnum": 6
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.8",
+        "bugnum": 11
+    },
+    {
+        "file": "templates/wiki.cs",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "templates/wiki_diff.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/wiki_history.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "templates/wiki_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "THANKS",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "THANKS",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "THANKS",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "THANKS",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "THANKS",
+        "version": "0.8",
+        "bugnum": 9
+    },
+    {
+        "file": "THANKS",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/About.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/about.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/About.py",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/About.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/admin/console.py",
+        "version": "0.11",
+        "bugnum": 24
+    },
+    {
+        "file": "trac/admin/console.py",
+        "version": "0.12",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/admin/console.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/console.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_components.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_components.html",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/templates/admin_enums.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_logging.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_milestones.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_milestones.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_milestones.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_perms.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/templates/admin_perms.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/admin/templates/admin_perms.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_plugins.html",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/admin/templates/admin_plugins.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/admin/templates/admin_plugins.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_versions.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/admin_versions.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/deploy_trac.cgi",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/templates/deploy_trac.cgi",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/deploy_trac.fcgi",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/templates/deploy_trac.fcgi",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/templates/deploy_trac.wsgi",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/admin/tests/console-tests.txt",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/tests/console-tests.txt",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/tests/console.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/tests/console.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/tests/console.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/admin/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/admin/web_ui.py",
+        "version": "0.11",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/admin/web_ui.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "0.10",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "0.11",
+        "bugnum": 26
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "0.9",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/attachment.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/auth.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/auth.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/authzperm.py",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/authzperm.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Browser.py",
+        "version": "0.6",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/Browser.py",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Browser.py",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/Browser.py",
+        "version": "0.9",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/cache.py",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/Changeset.py",
+        "version": "0.5",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Changeset.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Changeset.py",
+        "version": "0.7",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/Changeset.py",
+        "version": "0.8",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/Changeset.py",
+        "version": "0.9",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/config.py",
+        "version": "0.10",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/config.py",
+        "version": "0.11",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/config.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/config.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/config.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/config.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/context.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.7",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.8",
+        "bugnum": 16
+    },
+    {
+        "file": "trac/core.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/core.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/db.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db.py",
+        "version": "0.9",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/db/api.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/db/api.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/db/api.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/db/api.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/mysql_backend.py",
+        "version": "0.10",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/db/mysql_backend.py",
+        "version": "0.11",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/db/mysql_backend.py",
+        "version": "0.12",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/db/mysql_backend.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/pool.py",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/db/pool.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/db/pool.py",
+        "version": "0.12",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/db/postgres_backend.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/db/postgres_backend.py",
+        "version": "0.11",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/db/postgres_backend.py",
+        "version": "0.12",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/db/postgres_backend.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/schema.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/schema.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/sqlite_backend.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/db/sqlite_backend.py",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/db/sqlite_backend.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/db/sqlite_backend.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/tests/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/tests/api.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/db/tests/postgres_test.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/tests/postgres_test.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/db/tests/__init__.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/tests/__init__.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/db/util.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/db/util.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db/util.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/db/util.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.10",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.11",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/db_default.py",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/Diff.py",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Diff.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/env.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/env.py",
+        "version": "0.11",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/env.py",
+        "version": "0.12",
+        "bugnum": 17
+    },
+    {
+        "file": "trac/env.py",
+        "version": "0.9",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/env.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/Environment.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Environment.py",
+        "version": "0.8",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/File.py",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/File.py",
+        "version": "0.7",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/File.py",
+        "version": "0.8",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/File.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Href.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Href.py",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Href.py",
+        "version": "0.8",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/Href.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/css/admin.css",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/css/admin.css",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/browser.css",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/css/browser.css",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/css/browser.css",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/code.css",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/diff.css",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/jquery-ui/images/ui-bg_diagonals-thick_18_ffddcc_40x40.png",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/jquery-ui/images/ui-bg_highlight-soft_30_303030_1x100.png",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/jquery-ui/images/ui-icons_9b081d_256x240.png",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/jquery-ui/jquery-ui.css",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/jquery-ui/jquery-ui.css",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/report.css",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/css/report.css",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/roadmap.css",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/css/roadmap.css",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/css/roadmap.css",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/ticket.css",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/css/ticket.css",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/timeline.css",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/timeline.css",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/trac.css",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/htdocs/css/trac.css",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/htdocs/css/trac.css",
+        "version": "1.0",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/htdocs/css/wiki.css",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/css/wiki.css",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/auto_preview.js",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/babel.js",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/babel.js",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/blame.js",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/blame.js",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/diff.js",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/js/diff.js",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/expand_dir.js",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/htdocs/js/expand_dir.js",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/htdocs/js/folding.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/folding.js",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/ie_pre7_hacks.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/jquery-ui.js",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/jquery.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/jquery.js",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/jquery.js",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/keyboard_nav.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/query.js",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/js/query.js",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/htdocs/js/query.js",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/query.js",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/search.js",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/htdocs/js/suggest.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/suggest.js",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/threaded_comments.js",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/trac.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/trac.js",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/htdocs/js/wikitoolbar.js",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/js/workflow_graph.js",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/htdocs/topbar_gradient2.png",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/loader.py",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/loader.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/loader.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/loader.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/locale/cs/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/de/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/locale/de/LC_MESSAGES/messages.po",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/locale/el/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/et/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/fr/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/locale/fr_FR/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/locale/it/LC_MESSAGES/messages-js.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/it/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/locale/ko/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/ko/LC_MESSAGES/tracini.po",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/messages.pot",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/locale/pl/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/locale/pt_BR/LC_MESSAGES/messages.po",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/ru/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/locale/sv/LC_MESSAGES/messages.po",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/log.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/log.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Log.py",
+        "version": "0.5",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Log.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Log.py",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Log.py",
+        "version": "0.8",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/Log.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Milestone.py",
+        "version": "0.8",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/Milestone.py",
+        "version": "0.9",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/Mimeview.py",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Mimeview.py",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Mimeview.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/api.py",
+        "version": "0.10",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/mimeview/api.py",
+        "version": "0.11",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/mimeview/api.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/mimeview/api.py",
+        "version": "0.9",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/mimeview/api.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/enscript.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/enscript.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/patch.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/patch.py",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/mimeview/patch.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/patch.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/php.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/php.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/php.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/pygments.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/pygments.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/pygments_renderer.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/rst.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/rst.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/rst.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/rst.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/silvercity.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/silvercity.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/silvercity.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/tests/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/tests/api.py",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/mimeview/tests/patch.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeview/tests/patch.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/tests/pygments.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/tests/pygments.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/tests/pygments.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeview/tests/pygments.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeview/tests/pygments_renderer.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/tests/__init__.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeview/txtl.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeviewers/default.py",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeviewers/enscript.py",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/mimeviewers/enscript.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/mimeviewers/enscript.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/mimeviewers/silvercity.py",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/mimeviewers/__init__.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ModPythonHandler.py",
+        "version": "0.8",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ModPythonHandler.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Module.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Module.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Module.py",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Module.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/notification.py",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/notification.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/notification.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/notification.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Notify.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Notify.py",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Notify.py",
+        "version": "0.8",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/Notify.py",
+        "version": "0.9",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.11",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/perm.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/prefs/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs_advanced.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs_datetime.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/prefs/templates/prefs_datetime.html",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/prefs/templates/prefs_keybindings.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs_language.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs_pygments.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/templates/prefs_pygments.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/prefs/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/prefs/web_ui.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/prefs/web_ui.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Query.py",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Query.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/Report.py",
+        "version": "0.6",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/Report.py",
+        "version": "0.7",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Report.py",
+        "version": "0.8",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/Report.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/resource.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/resource.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Roadmap.py",
+        "version": "0.8",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Roadmap.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/scripts/admin.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/scripts/admin.py",
+        "version": "0.9",
+        "bugnum": 26
+    },
+    {
+        "file": "trac/scripts/tests/admin-tests.txt",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/scripts/tests/admin-tests.txt",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/scripts/tests/admin.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/scripts/tests/admin.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/scripts/tests/admin.py",
+        "version": "0.9",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/Search.py",
+        "version": "0.10",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/Search.py",
+        "version": "0.6",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Search.py",
+        "version": "0.8",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/Search.py",
+        "version": "0.9",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/search/templates/search.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/search/templates/search.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/search/web_ui.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/search/web_ui.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Settings.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Settings.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/sync.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/about.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/templates/about.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/attachment.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/attachment.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/diff_div.html",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/templates/diff_div.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/diff_options.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/diff_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/diff_view.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/error.html",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/templates/error.html",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/templates/header.cs",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/header.cs",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/history_view.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/history_view.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/layout.html",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/templates/layout.html",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/templates/layout.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/macros.html",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/templates/macros.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/preview_file.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/templates/progress_bar.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/progress_bar.html",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/templates/theme.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/templates/theme.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/test.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/test.py",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/test.py",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/test.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/test.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/test.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/allwiki.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/attachment.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/tests/attachment.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/attachment.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/attachment.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/config.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/tests/config.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/tests/config.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/tests/config.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/config.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/diff.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/env.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/env.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/env.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/environment.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/functional/better_twill.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/better_twill.py",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/tests/functional/better_twill.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/functional/better_twill.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/functional/svntestenv.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/functional/testcases.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/testcases.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/testcases.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/testenv.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/tests/functional/testenv.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/testenv.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/functional/tester.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/tester.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/functional/tester.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/tests/functional/tester.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/milestone.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/notification.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/notification.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/perm.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/perm.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/tests/perm.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/query.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/resource.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/ticket.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/tracadmin-tests.txt",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/tracadmin-tests.txt",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/tracadmin.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/util.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/util.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/wiki-tests.txt",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/wiki-tests.txt",
+        "version": "0.8",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/tests/wiki-tests.txt",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/tests/wiki.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/tests/wiki.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/tests/wikisyntax.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/tests/__init__.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Ticket.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Ticket.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Ticket.py",
+        "version": "0.7",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/Ticket.py",
+        "version": "0.8",
+        "bugnum": 21
+    },
+    {
+        "file": "trac/Ticket.py",
+        "version": "0.9",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/ticket/admin.py",
+        "version": "0.11",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/ticket/admin.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/admin.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/api.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/ticket/api.py",
+        "version": "0.11",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/ticket/api.py",
+        "version": "0.12",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/api.py",
+        "version": "0.9",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ticket/api.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/batch.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/default_workflow.py",
+        "version": "0.11",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/ticket/default_workflow.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/default_workflow.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/default_workflow.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "0.10",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "0.11",
+        "bugnum": 21
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "0.12",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "0.9",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/ticket/model.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/notification.py",
+        "version": "0.10",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/ticket/notification.py",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ticket/notification.py",
+        "version": "0.12",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "0.11",
+        "bugnum": 36
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "0.12",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "0.9",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/query.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "0.10",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "0.11",
+        "bugnum": 23
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "0.12",
+        "bugnum": 16
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "0.9",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/report.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "0.10",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "0.11",
+        "bugnum": 26
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "0.12",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/roadmap.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/milestone_delete.html",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/templates/milestone_delete.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/milestone_edit.html",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/ticket/templates/milestone_edit.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/milestone_edit.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/milestone_view.html",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/templates/milestone_view.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/templates/milestone_view.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/query.html",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/templates/query.html",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/ticket/templates/query.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/query_results.html",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/ticket/templates/query_results.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/report.rss",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/templates/report.rss",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/report_delete.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/report_edit.html",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/report_list.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/report_view.html",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/templates/report_view.html",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/templates/roadmap.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/roadmap.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/ticket.html",
+        "version": "0.11",
+        "bugnum": 22
+    },
+    {
+        "file": "trac/ticket/templates/ticket.html",
+        "version": "0.12",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/ticket/templates/ticket.html",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/ticket/templates/ticket.html",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/ticket.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/ticket_box.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/ticket_box.html",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/templates/ticket_notify_email.txt",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/templates/ticket_notify_email.txt",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/api.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/conversion.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/conversion.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/functional.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/ticket/tests/functional.py",
+        "version": "1.0",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/ticket/tests/functional.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/model.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/model.py",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ticket/tests/model.py",
+        "version": "0.12",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/ticket/tests/model.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/model.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/notification.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/ticket/tests/notification.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/notification.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/ticket/tests/notification.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/query.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/report.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/report.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/report.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/report.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/roadmap.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/roadmap.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/wikisyntax.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/wikisyntax.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/wikisyntax.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/wikisyntax.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/ticket/tests/__init__.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/ticket/tests/__init__.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "0.10",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "0.11",
+        "bugnum": 52
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "0.12",
+        "bugnum": 22
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "0.9",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "1.0",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/ticket/web_ui.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/ticket/workflows/basic-workflow.ini",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.7",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.8",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/Timeline.py",
+        "version": "0.9",
+        "bugnum": 20
+    },
+    {
+        "file": "trac/timeline/api.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/timeline/templates/timeline.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/timeline/templates/timeline.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/timeline/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/timeline/web_ui.py",
+        "version": "0.11",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/timeline/web_ui.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/timeline/web_ui.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/timeline/web_ui.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/trac.py",
+        "version": "0.5",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/trac.py",
+        "version": "0.6",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/trac.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db11.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db11.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db12.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db13.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db14.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db15.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db15.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db17.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db17.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db18.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db18.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db19.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db20.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/upgrades/db20.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db20.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db21.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db22.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/upgrades/db23.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db24.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db3.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db4.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db5.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db7.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db8.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/upgrades/db9.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/util.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util.py",
+        "version": "0.7",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/util.py",
+        "version": "0.8",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/util.py",
+        "version": "0.9",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/util/autoreload.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/compat.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/util/compat.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/compat.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/daemon.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/daemon.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/datefmt.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/datefmt.py",
+        "version": "0.11",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/util/datefmt.py",
+        "version": "0.12",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/util/datefmt.py",
+        "version": "1.0",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/util/datefmt.py",
+        "version": "1.1",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/util/dist.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/html.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/html.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/html.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/markup.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/util/presentation.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/presentation.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/tests/datefmt.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/util/tests/datefmt.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/util/tests/datefmt.py",
+        "version": "1.0",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/util/tests/datefmt.py",
+        "version": "1.1",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/tests/html.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/tests/presentation.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/tests/presentation.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/tests/text.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/util/tests/text.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/tests/text.py",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/util/tests/text.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/tests/text.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/tests/__init__.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/util/tests/__init__.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/util/text.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/text.py",
+        "version": "0.11",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/util/text.py",
+        "version": "0.12",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/util/text.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/util/text.py",
+        "version": "1.1",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/util/translation.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/util/translation.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/util/translation.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/util/__init__.py",
+        "version": "0.10",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/util/__init__.py",
+        "version": "0.11",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/util/__init__.py",
+        "version": "0.12",
+        "bugnum": 22
+    },
+    {
+        "file": "trac/util/__init__.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/util/__init__.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/admin.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/api.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/versioncontrol/api.py",
+        "version": "0.11",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/versioncontrol/api.py",
+        "version": "0.12",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/versioncontrol/api.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/api.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/cache.py",
+        "version": "0.10",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/versioncontrol/cache.py",
+        "version": "0.11",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/versioncontrol/cache.py",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/versioncontrol/cache.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/diff.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/diff.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/diff.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/diff.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/svn_authz.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/svn_authz.py",
+        "version": "0.11",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/svn_authz.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/svn_authz.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 24
+    },
+    {
+        "file": "trac/versioncontrol/svn_fs.py",
+        "version": "0.11",
+        "bugnum": 36
+    },
+    {
+        "file": "trac/versioncontrol/svn_fs.py",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/versioncontrol/svn_fs.py",
+        "version": "0.9",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/versioncontrol/svn_fs.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/svn_prop.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/svn_prop.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/admin_repositories.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/admin_repositories.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/browser.html",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/templates/browser.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/browser.html",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/changeset.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/changeset.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/dir_entries.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/path_links.html",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/path_links.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/repository_index.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/templates/revisionlog.html",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/templates/revisionlog.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/templates/revisionlog.rss",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/revisionlog.rss",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/templates/revisionlog.txt",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/api.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/cache.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/tests/cache.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/cache.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/tests/cache.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/diff.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/diff.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/diff.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/functional.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/svnrepos.dump",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/tests/svnrepos.dump",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/svnrepos.dump",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/svnrepos.dump",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_authz.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_authz.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_authz.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_authz.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.10",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_fs.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/tests/svn_fs.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/tests/__init__.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/browser.py",
+        "version": "0.10",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/browser.py",
+        "version": "0.11",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/browser.py",
+        "version": "0.12",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/browser.py",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/browser.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.10",
+        "bugnum": 19
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.11",
+        "bugnum": 24
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.12",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/changeset.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/changeset.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/log.py",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/log.py",
+        "version": "0.11",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/log.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/log.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/log.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/tests/wikisyntax.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/tests/wikisyntax.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/tests/wikisyntax.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/versioncontrol/web_ui/util.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "0.10",
+        "bugnum": 17
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "0.11",
+        "bugnum": 17
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/api.py",
+        "version": "1.1",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/auth.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/auth.py",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/web/auth.py",
+        "version": "0.12",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/web/auth.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/auth.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/cgi_frontend.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/cgi_frontend.py",
+        "version": "0.9",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "0.11",
+        "bugnum": 24
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "0.12",
+        "bugnum": 17
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/chrome.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/clearsilver.py",
+        "version": "0.10",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/clearsilver.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/clearsilver.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/fcgi_frontend.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/fcgi_frontend.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/href.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/href.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/href.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/href.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/main.py",
+        "version": "0.10",
+        "bugnum": 20
+    },
+    {
+        "file": "trac/web/main.py",
+        "version": "0.11",
+        "bugnum": 34
+    },
+    {
+        "file": "trac/web/main.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/web/main.py",
+        "version": "0.9",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/web/main.py",
+        "version": "1.0",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/modpython_frontend.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/modpython_frontend.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/modpython_frontend.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/modpython_frontend.py",
+        "version": "0.9",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/web/session.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/session.py",
+        "version": "0.11",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/web/session.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/web/session.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "0.11",
+        "bugnum": 10
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/standalone.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/api.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/tests/api.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/api.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/tests/auth.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/auth.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/auth.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/cgi_frontend.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/chrome.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/chrome.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/chrome.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/tests/chrome.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/href.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/tests/href.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/tests/href.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/tests/session.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/tests/session.py",
+        "version": "0.12",
+        "bugnum": 7
+    },
+    {
+        "file": "trac/web/tests/session.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/wsgi.py",
+        "version": "0.11",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/web/wsgi.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/_fcgi.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/web/_fcgi.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/web/__init__.py",
+        "version": "0.11",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/web/__init__.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/Wiki.py",
+        "version": "0.5",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/Wiki.py",
+        "version": "0.6",
+        "bugnum": 16
+    },
+    {
+        "file": "trac/Wiki.py",
+        "version": "0.7",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/Wiki.py",
+        "version": "0.8",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/Wiki.py",
+        "version": "0.9",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/wiki/admin.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/wiki/api.py",
+        "version": "0.10",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/wiki/api.py",
+        "version": "0.11",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/wiki/api.py",
+        "version": "0.12",
+        "bugnum": 15
+    },
+    {
+        "file": "trac/wiki/api.py",
+        "version": "0.9",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/wiki/default-pages/InterTrac",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracAdmin",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracCgi",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracEnvironment",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracFastCgi",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracInstall",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/default-pages/TracInstall",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracInterfaceCustomization",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracLinks",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracModPython",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracPermissions",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracReports",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracStandalone",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracStandalone",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracSupport",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracTickets",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracUpgrade",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracWiki",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/default-pages/TracWikiMacros",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/default-pages/WikiFormatting",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/formatter.py",
+        "version": "0.10",
+        "bugnum": 25
+    },
+    {
+        "file": "trac/wiki/formatter.py",
+        "version": "0.11",
+        "bugnum": 29
+    },
+    {
+        "file": "trac/wiki/formatter.py",
+        "version": "0.12",
+        "bugnum": 26
+    },
+    {
+        "file": "trac/wiki/formatter.py",
+        "version": "0.9",
+        "bugnum": 24
+    },
+    {
+        "file": "trac/wiki/formatter.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/intertrac.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/wiki/intertrac.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/interwiki.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/interwiki.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "0.10",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "0.11",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "0.12",
+        "bugnum": 9
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "0.9",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "1.0",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/wiki/macros.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/model.py",
+        "version": "0.10",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/model.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/model.py",
+        "version": "0.12",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/wiki/model.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/model.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/parser.py",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/parser.py",
+        "version": "0.12",
+        "bugnum": 13
+    },
+    {
+        "file": "trac/wiki/parser.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/templates/wiki_delete.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit.html",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit.html",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit.html",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit.html",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit_form.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/templates/wiki_edit_form.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/templates/wiki_view.html",
+        "version": "0.11",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/templates/wiki_view.html",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/templates/wiki_view.html",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/formatter.py",
+        "version": "0.10",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/wiki/tests/formatter.py",
+        "version": "0.11",
+        "bugnum": 5
+    },
+    {
+        "file": "trac/wiki/tests/formatter.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/tests/formatter.py",
+        "version": "0.9",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/tests/formatter.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/functional.py",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/tests/functional.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/macros.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/wiki/tests/macros.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/macros.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/tests/macros.py",
+        "version": "1.0",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/wiki/tests/macros.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/model.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/model.py",
+        "version": "0.11",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/model.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "trac/wiki/tests/wiki-tests.txt",
+        "version": "0.10",
+        "bugnum": 17
+    },
+    {
+        "file": "trac/wiki/tests/wiki-tests.txt",
+        "version": "0.11",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/wiki/tests/wiki-tests.txt",
+        "version": "0.12",
+        "bugnum": 21
+    },
+    {
+        "file": "trac/wiki/tests/wiki-tests.txt",
+        "version": "0.9",
+        "bugnum": 23
+    },
+    {
+        "file": "trac/wiki/tests/wikisyntax.py",
+        "version": "0.10",
+        "bugnum": 6
+    },
+    {
+        "file": "trac/wiki/tests/wikisyntax.py",
+        "version": "0.11",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/wiki/tests/wikisyntax.py",
+        "version": "0.12",
+        "bugnum": 12
+    },
+    {
+        "file": "trac/wiki/tests/wikisyntax.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/tests/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wiki/web_ui.py",
+        "version": "0.10",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/wiki/web_ui.py",
+        "version": "0.11",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/wiki/web_ui.py",
+        "version": "0.12",
+        "bugnum": 11
+    },
+    {
+        "file": "trac/wiki/web_ui.py",
+        "version": "0.9",
+        "bugnum": 8
+    },
+    {
+        "file": "trac/wiki/web_ui.py",
+        "version": "1.0",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wiki/__init__.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/WikiFormatter.py",
+        "version": "0.8",
+        "bugnum": 18
+    },
+    {
+        "file": "trac/WikiFormatter.py",
+        "version": "0.9",
+        "bugnum": 14
+    },
+    {
+        "file": "trac/wikimacros/HelloWorld.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wikimacros/rst.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wikimacros/rst.py",
+        "version": "0.8",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wikimacros/rst.py",
+        "version": "0.9",
+        "bugnum": 3
+    },
+    {
+        "file": "trac/wikimacros/Timestamp.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wikimacros/TracGuideToc.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/wikimacros/__init__.py",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/__init__.py",
+        "version": "0.10",
+        "bugnum": 2
+    },
+    {
+        "file": "trac/__init__.py",
+        "version": "0.12",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/__init__.py",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "trac/__init__.py",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "tracopt/perm/authz_policy.py",
+        "version": "0.12",
+        "bugnum": 4
+    },
+    {
+        "file": "tracopt/ticket/commit_updater.py",
+        "version": "0.12",
+        "bugnum": 3
+    },
+    {
+        "file": "tracopt/ticket/commit_updater.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "tracopt/ticket/templates/ticket_delete.html",
+        "version": "0.12",
+        "bugnum": 2
+    },
+    {
+        "file": "tracopt/versioncontrol/git/git_fs.py",
+        "version": "1.0",
+        "bugnum": 7
+    },
+    {
+        "file": "tracopt/versioncontrol/git/git_fs.py",
+        "version": "1.1",
+        "bugnum": 4
+    },
+    {
+        "file": "tracopt/versioncontrol/git/PyGIT.py",
+        "version": "1.0",
+        "bugnum": 12
+    },
+    {
+        "file": "tracopt/versioncontrol/git/PyGIT.py",
+        "version": "1.1",
+        "bugnum": 6
+    },
+    {
+        "file": "tracopt/versioncontrol/git/tests/PyGIT.py",
+        "version": "1.0",
+        "bugnum": 6
+    },
+    {
+        "file": "tracopt/versioncontrol/git/tests/PyGIT.py",
+        "version": "1.1",
+        "bugnum": 6
+    },
+    {
+        "file": "tracopt/versioncontrol/svn/svn_fs.py",
+        "version": "1.0",
+        "bugnum": 2
+    },
+    {
+        "file": "tracopt/versioncontrol/svn/svn_fs.py",
+        "version": "1.1",
+        "bugnum": 2
+    },
+    {
+        "file": "tracopt/versioncontrol/svn/tests/svn_fs.py",
+        "version": "1.0",
+        "bugnum": 1
+    },
+    {
+        "file": "tracopt/versioncontrol/svn/tests/svn_fs.py",
+        "version": "1.1",
+        "bugnum": 1
+    },
+    {
+        "file": "UPGRADE",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "UPGRADE",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/checkwiki.py",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/checkwiki.py",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/checkwiki.py",
+        "version": "0.8",
+        "bugnum": 2
+    },
+    {
+        "file": "wiki-default/TracChangeset",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/TracIni",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/TracIni",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/TracIni",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/TracSupport",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/TracUpgrade",
+        "version": "0.9",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/WikiPageNames",
+        "version": "0.8",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/WikiStart",
+        "version": "0.10",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/WikiStart",
+        "version": "0.6",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/WikiStart",
+        "version": "0.7",
+        "bugnum": 1
+    },
+    {
+        "file": "wiki-default/WikiStart",
+        "version": "0.8",
+        "bugnum": 3
+    }
+]

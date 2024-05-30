@@ -1,0 +1,84 @@
+extends project
+
+block content
+	h1.page-header Crawler
+	div.placeholder
+	div.row.placeholders
+		div.col-xs-12.col-sm-6.col-md-4.placeholder
+			form.form-horizontal(action="post",id="changeset-form")
+				div.input-group.se-input-group
+					label Project changeset URL base
+					input.form-control.se-input(type="text",name="url",placeholder="Project changeset URL base",value="http://trac.edgewall.org/changeset/")
+				div.input-group.se-input-group.row
+					div.col-xs-6.col-sm-6.col-md-6(style="float:left")
+						label Start Page
+						input.form-control.se-input(type="number",name="start",value="7560")
+					div.col-xs-6.col-sm-6.col-md-6(style="float:right")
+						label End Page
+						input.form-control.se-input(type="number",name="end",value="7580")
+				div.input-group.se-input-group
+					label Regex expressionfor author 
+					input.form-control.se-input(type="text",name="author")
+				div.input-group.se-input-group
+					label Regex expressionfor for ticket
+					input.form-control.se-input(type="text",name="ticket")
+				div.input-group.se-input-group
+					label Regex expressionfor for version
+					input.form-control.se-input(type="text",name="version")
+				div.input-group.se-input-group
+					label Regex expressionfor for timestamp
+					input.form-control.se-input(type="text",name="timestamp")
+				div.input-group.se-input-group
+					label Regex expressionfor for message
+					input.form-control.se-input(type="text",name="message")
+				div.input-group.se-input-group
+					label Regex expressionfor for file
+					input.form-control.se-input(type="text",name="file")
+				div.input-group.se-input-group
+					label Regex expressionfor for type
+					input.form-control.se-input(type="text",name="type")
+				div.input-group.se-input-group
+					input.btn.se-btn(type="submit" ,value="Changeset Crawl")
+		div.col-xs-12.col-sm-4.col-md-4.placeholder
+			form.form-horizontal(action="post",id="ticket-form")
+				div.input-group.se-input-group
+					label Project ticket URL base
+					input.form-control.se-input(type="text",name="url",placeholder="Project ticket URL base",value="http://trac.edgewall.org/ticket/")
+				div.input-group.se-input-group.row
+					div.col-xs-6.col-sm-6.col-md-6(style="float:left")
+						label Start Page
+						input.form-control.se-input(type="number",name="start",value="8010")
+					div.col-xs-6.col-sm-6.col-md-6(style="float:right")
+						label End Page
+						input.form-control.se-input(type="number",name="end",value="8040")
+				div.input-group.se-input-group
+					label Regex expressionfor for status
+					input.form-control.se-input(type="text",name="status")
+				div.input-group.se-input-group
+					label Regex expressionfor for title
+					input.form-control.se-input(type="text",name="title")
+				div.input-group.se-input-group
+					label Regex expressionfor for timestamp
+					input.form-control.se-input(type="text",name="timestamp")
+				div.input-group.se-input-group
+					label Regex expressionfor for reporter
+					input.form-control.se-input(type="text",name="reporter")
+				div.input-group.se-input-group
+					label Regex expressionfor for owner
+					input.form-control.se-input(type="text",name="owner")
+				div.input-group.se-input-group
+					label Regex expressionfor for milestone
+					input.form-control.se-input(type="text",name="milestone")
+				div.input-group.se-input-group
+					label Regex expressionfor for discription
+					input.form-control.se-input(type="text",name="discription")
+				div.input-group.se-input-group
+					input.btn.se-btn(type="submit" ,value="Ticket Crawl")
+		div.col-xs-12.col-sm-4.col-md-4.placeholder
+			form.form-horizontal
+				div.input-group.se-input-group
+					label Project comment URL base
+					input.form-control.se-input(type="text",name="url",placeholder="Project comment URL base")
+				div.input-group.se-input-group
+					input.btn.se-btn(type="submit" ,value="Comment Crawl")
+	

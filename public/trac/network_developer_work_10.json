@@ -1,0 +1,67 @@
+[
+    {
+        "developer1": "cboos",
+        "developer2": "psuter",
+        "count": 5
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "rblank",
+        "count": 8
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jomae",
+        "count": 2
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "cmlenz",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "psuter",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "fschwarz",
+        "count": 2
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jruigrok",
+        "count": 1
+    },
+    {
+        "developer1": "fschwarz",
+        "developer2": "jruigrok",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "dstoecker",
+        "count": 1
+    },
+    {
+        "developer1": "jomae",
+        "developer2": "rblank",
+        "count": 3
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "psuter",
+        "developer2": "rblank",
+        "count": 1
+    },
+    {
+        "developer1": "fschwarz",
+        "developer2": "rblank",
+        "count": 1
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "developer1": "cboos",
+        "developer2": "cmlenz",
+        "count": 171
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jonas",
+        "count": 118
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "jonas",
+        "count": 105
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "cboos",
+        "count": 29
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "cmlenz",
+        "count": 25
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "jonas",
+        "count": 16
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "eblot",
+        "count": 5
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "eblot",
+        "count": 17
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "eblot",
+        "count": 18
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "jonas",
+        "count": 14
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "mgood",
+        "count": 20
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "mgood",
+        "count": 61
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "mgood",
+        "count": 184
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "mgood",
+        "count": 11
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "mgood",
+        "count": 48
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "mgood",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "thatch",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "thatch",
+        "count": 2
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "thatch",
+        "count": 2
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "thatch",
+        "count": 2
+    },
+    {
+        "developer1": "mgood",
+        "developer2": "thatch",
+        "count": 2
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "mgood",
+        "developer2": "osimons",
+        "count": 1
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "ecarter",
+        "count": 2
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "ecarter",
+        "count": 1
+    },
+    {
+        "developer1": "ecarter",
+        "developer2": "mgood",
+        "count": 2
+    },
+    {
+        "developer1": "athomas",
+        "developer2": "ecarter",
+        "count": 1
+    }
+]

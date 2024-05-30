@@ -1,0 +1,174 @@
+extends layout-demo
+include mixin-menu
+
+block stylesheets
+	link(rel="stylesheet",href="/stylesheets/graph.css")
+
+block sidebar
+	+menuOfActive('wordpress')
+
+block content
+	section.choice-section(style="margin:0 auto",id="choice-section")
+		div(style="padding:10px;")
+			a.btn.btn-differShow.active(style="",href="#choice-section") 融合关系网络
+			a.btn.btn-differShow(style="",href="#table-section") 分离关系网络
+		div.choice-section-content
+			table.choice-section-table
+				tr(style="margin:10px auto")
+					p(style="padding:5px 5px;") @ 通过选择项目的开发版本和开发者网络以来类型，来查看开发者社交网络不同版本的迭代，演化关系网络图。
+					p(style="padding:5px 5px;") @ 如果进行版本的多重选择，则生成项目演化关系网络图，如果多种版本比较，则是项目不同关系网络的合成图。
+				tr(style="margin:10px auto")
+					td
+						lable(style="padding:0 10px;")= "项目版本选择"
+					td
+						div.btn-group(data-toggle="buttons")
+							label.btn.version.btn-choice 15
+								input(type="checkbox") 
+							label.btn.version.btn-choice 20
+								input(type="checkbox") 
+							label.btn.version.btn-choice 21
+								input(type="checkbox")
+							label.btn.version.btn-choice 22
+								input(type="checkbox")
+							label.btn.version.btn-choice 23
+								input(type="checkbox")
+							label.btn.version.btn-choice 25
+								input(type="checkbox")
+							label.btn.version.btn-choice 26
+								input(type="checkbox")
+							label.btn.version.btn-choice 27
+								input(type="checkbox")
+							label.btn.version.btn-choice 28
+								input(type="checkbox") 
+							label.btn.version.btn-choice 29
+								input(type="checkbox") 
+							label.btn.version.btn-choice 30
+								input(type="checkbox") 
+							label.btn.version.btn-choice 31
+								input(type="checkbox") 
+							label.btn.version.btn-choice 32
+								input(type="checkbox") 
+							label.btn.version.btn-choice 33
+								input(type="checkbox") 
+							label.btn.version.btn-choice 34
+								input(type="checkbox") 
+							label.btn.version.btn-choice 35
+								input(type="checkbox") 
+							label.btn.version.btn-choice 36
+								input(type="checkbox") 
+				tr(style="margin:20px auto")
+					td
+						lable(style="padding:0 10px;")= "开发者依赖关系选择"
+					td
+						div.btn-group(data-toggle="buttons")
+							label.btn.developer.btn-choice developer_comment
+								input(type="checkbox") 
+							label.btn.developer.btn-choice developer_commit
+								input(type="checkbox") 
+							label.btn.developer.btn-choice developer_work
+								input(type="checkbox") 
+	//- section.explaination-section(style="padding:10px 10px")
+
+
+	section.evolution-section
+		div.row(style="margin:10px auto;")
+			ul.nav.nav-tabs(id="evolution-tab")
+				li.active
+					a(href="#graph-tab",data-toggle="tab") 开发者社交网络关系图
+				li
+					a(href="#parallel-tab",data-toggle="tab") 开发者网络中心度分析图
+			div.tab-content
+				div.tab-pane.active(style="margin:10px",id="graph-tab")		
+					p(style="padding:5px 5px;text-align:left;color:#428bca;font-size:25px") 开发者社交网络关系图
+					div.graph-section-content(id="graph")
+				div.tab-pane(style="margin:10px",id="parallel-tab")
+					p(style="padding:5px 5px;text-align:left;color:#428bca;font-size:25px") 开发者网络中心度分析图（并行集）
+					h3
+						li “并行集”或称 ParSet, 它是一种可视化技术，专门用于描述分类数据。
+					table.table.table-responisve
+						tr
+							th 
+								h4 度量值
+							th 
+								h4 定义
+						tr
+							td 
+								h4 点度中心度(Degree Centrality)
+							td 
+								h4 每个节点拥有的邻居数量，即与该点直接相连的点得个数。
+						tr
+							td
+								h4 接近中心度(Closeness Centrality)
+							td
+								h4 从当前节点到达其他所有（可到达的）节点的的最短路径。
+						tr
+							td
+								h4 中间中心度(Betweenness Centrality)
+							td
+								h4 表示一个节点 相对于节点对中间中心度，指经过的所有两个连通的节点的最短路径中会经过该节点的次数和的最短路径的总数之比。
+						tr
+							td
+								h4 流中间中心度 (Current Flow Betweenness Centrality) 
+							td
+								h4 中间中心度的一个变体，使用两个节点最短环路替换中间中心度中的最短路径。
+						tr
+							td
+								h4 流接近中心度 (Current Flow Closeness Centrality) 
+							td
+								h4 接近中心度的一个变体，使用两个节点最短环路替换接近中心度中的最短路径。
+					div.graph-section-content(id="parallel")
+	section.table-section(id="table-section")
+		div(style="padding:10px")
+			a.btn.btn-differShow(style="",href="#choice-section") 融合关系网络
+			a.btn.btn-differShow.active(style="",href="#table-section") 分离关系网络			
+		div.row(style="margin:10px auto;")
+			ul.nav.nav-tabs(id="graph-tab")
+				li
+					a(href="#developer-detailed-graph",data-toggle="tab") 此版本下的开发者网络
+				li.active
+					a(href="#developer-evolution-graph",data-toggle="tab") 网络演化演示
+			div.tab-content
+				div.tab-pane(style="margin:10px;text-align:center",id="developer-detailed-graph")
+					div.col-md-12(style="margin:10px")
+						lable(style="padding:10px 5px")= "选择开发版本"
+						select(id="version-selector",style="min-width:100px")
+							option= "15"
+							option= "20"
+							option= "21"
+							option= "22"
+							option= "23"
+							option= "25"
+							option= "26"
+							option= "27"
+							option= "28"
+							option= "29"
+							option= "30"
+							option= "31"
+							option= "32"
+							option= "33"
+							option= "34"
+							option= "35"
+							option= "36"
+					div.col-md-4
+						lable= "交流关系网络"
+						div(id="developer-comment")		
+					div.col-md-4
+						lable= "协作关系网络"
+						div(id="developer-commit")
+					div.col-md-4
+						lable= "工作依赖网络"
+						div(id="developer-work")
+				div.tab-pane.active(style="margin:10px;text-align:center",id="developer-evolution-graph;")
+					div.btn-group(data-toggle="buttons")
+						label.btn.evolution.btn-choice(id="developer-comment-evolution") 交流关系
+							input(type="radio") 
+						label.btn.evolution.btn-choice(id="developer-commit-evolution") 协作关系
+							input(type="radio") 
+						label.btn.evolution.btn-choice(id="developer-work-evolution") 工作关系
+							input(type="radio") 
+					div(id="developer-evolution",style="min-height:420px")
+		//- div(style="margin:0 auto")   
+		//- 	table.table(id="TT-analysis",style="display:block")
+block javascripts 		      	
+	script(src="/javascripts/d3.v3.min.js")
+	script(src="/javascripts/demo-wordpress-graph.js")

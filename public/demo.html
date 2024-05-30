@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Demo</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/font-awesome.min.css">   
+    <link rel="stylesheet" type="text/css" href="/stylesheets/flexslider.css">
+    <!-- <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:300,500"> -->
+
+    <!--[if lt IE 9]>
+      
+    <![endif]-->
+	<link rel="stylesheet" type="text/css" href="/stylesheets/demo.css">
+
+
+</head>
+<body data-spy="scroll" data-target="#navbar-parent">
+    <div id="full-cv" class="modal fade s" tabindex="-1" role="dialog" aria-labelledby="LargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <object data="/files/thesis.pdf" type="application/pdf" width="100%" height="800px">
+
+                <p>Oops...It appears you don't have a PDF plugin for this browser.
+                No biggie... you can <a href="/files/Lead with A Strory.pdf">click here to
+                download the PDF file.</a></p>
+                      
+                </object>
+            </div>
+        </div>
+    </div>
+
+    <div class="spacer" style="display:block;z-index:-1;height:700px;position:relative;"></div> 
+
+    <div class="scrollblock block-title" style="z-index:1;" height="900px" style="height:900px !important"data-stellar-ratio="0.5">
+        <img  src="/images/demo-main.png" alt="..." class="img img-thumbnail"> 
+        <div style="width:580px;margin:0 auto;">       
+            <h1 style="color:#1f497d;font-weight:bold"> 开发者社交网络的分析与可视化系统</h1>
+            </br>
+            <h1 style="text-align:left">答辩人：高锦天</h1>
+            <h1 style="text-align:left">指导老师：陈振宇</h1>
+        </div>
+        <a class="scrollTo scroll-down" href="#background"><i class="fa fa-angle-down fa-lg"></i></a>
+    </div>
+
+<!--     <div style="display:block;z-index:2;">
+ -->
+    <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation" style="background-color: rgba(240,242,244,0.86)">
+        <div class="container" id="navbar-parent">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#full-cv" data-toggle="modal">查看</a>
+            </div>
+            <ul class="hidden-xs nav navbar-nav navbar-right">
+                <li><a class="scrollTo" href="#background">背景</a></li>
+                <li><a class="scrollTo" href="#introduction">网络构建</a></li>
+                <li><a class="scrollTo" href="#tools">系统</a></li>
+                <li><a class="scrollTo" href="#abstract1">概要设计1</a></li>
+                <li><a class="scrollTo" href="#abstract2">概要设计2</a></li>
+                <li><a class="scrollTo" href="#conclusion">要做的事</a></li>
+            </ul>
+    
+        </div>
+    </nav>
+
+
+    <div class="scrollblock " id="background" style="background-color:#fff" style="height:900px !important" data-stellar-background-ratio="0.5">
+        <div class="container">
+            <h1>开发者社交网络背景</h1>
+            <h3>随着互联网的发展，全球的开发者们共同参与到同一个软件开发项目中，一些软件项目经常会发生软件需求、功能的变更，项目中的缺陷也在不断的进行修复。伴随着软件的生命周期，开发者们需要进行交流与协作以共同完成日益复杂的软件任务，基于这些交流与协作关系，逐渐形成了开发者社交网络。</h3>
+            <div class="col-sm-12 col-md-12" >
+                    <div class="thumbnail">
+                          <img src="/images/demo-history.png"  alt="...">
+
+                    </div>
+                  
+                </div>
+
+        <!--     <a class="scrollTo scroll-down" href="#construct"><i class="fa fa-angle-down fa-lg"></i></a> -->
+        </div>
+    </div>
+
+    <div class="scrollblock " id="construct" height="900px !important" style="background-color:#fff" data-stellar-background-ratio="0.5">
+        <div class="container">
+            <h1>开发者社交网络构建</h1><h3>
+            <li>一个Changeset包含了一个开发者在一个开发迭代周期中的一个时间点提交的一组文件，主要提取的信息是了开发者信息，版本信息，文件信息。</li></br>
+            <li>一个Ticket中包含了一个现有功能的Bug报告，或者一个现有功能需要增强的需求，或者项目中一个将要添加的新功能。主要提取的信息是提交者信息</li></h3>
+            <div class="row">
+                <div class="col-sm-4 col-md-4">
+                    <div class="thumbnail">
+                          <img data-src="/images/DN1.jpg" src="/images/DN1.jpg" alt="...">
+                          <div class="caption">
+                            <h3>工作依赖关系</h3>
+                            <p>将参与同一次修改（包括添加新功能和对已有代码的修正）的两位开发者视为存在工作依赖关系。</p>                           
+                          </div>
+                    </div>
+                  
+                </div>
+                <div class="col-sm-4 col-md-4">
+                    <div class="thumbnail">
+                          <img data-src="/images/DN2.jpg" src="/images/DN2.jpg" alt="..." style="padding:45px 0 45px 0">
+                          <div class="caption">
+                            <h3>提交协作关系</h3>
+                            <p>将在同一个版本的开发中修改过同一个文件的两位开发者视为存在协作关系。</p>
+                            
+                          </div>
+                    </div>
+                  
+                </div>
+
+                <div class="col-sm-4 col-md-4">
+                    <div class="thumbnail">
+                          <img data-src="/images/DN3.jpg" src="/images/DN3.jpg" alt="..." style="padding:45px 0 45px 0">
+                          <div class="caption">
+                            <h3>评论交流关系</h3>
+                            <p>将参与同一个ticket的评论与回复的两位开发者视为存在交流关系。计算公式如下：</p>
+                            
+                          </div>
+                    </div>
+                  
+                </div>
+                <a href="/images/1.png"target="_blank">数据获取1</a>
+                <a href="/images/2.png"target="_blank">数据获取2</a>
+                <a href="/images/3.png"target="_blank">数据获取3</a>
+                <a href="/images/4.png"target="_blank">数据获取4</a>
+                <a href="/images/5.png"target="_blank">数据获取5</a>
+                <a href="/images/6.png"target="_blank">数据获取6</a>
+                <a href="/images/7.png"target="_blank">文件语法网络</a>
+
+                
+            </div>
+           <!--  <a class="scrollTo scroll-down" href="#introduction"><i class="fa fa-angle-down fa-lg"></i></a> -->
+        </div>
+    </div><!--projects-->
+
+    <div class="scrollblock " id="introduction" style="height:900px !important;background-color:#fff;padding-top:20px">
+            <div class="container">
+            <h1><button id="evolution" class="btn btn-lg btn-primary">网络随版本演化演示</button></h1>
+            
+            <div id="developer-evolution" style="min-height:600px;"></div>
+            <a href="/demo/wordpress" target="_blank" style="text-align:center">开发者社交网络展示</a>
+          <!--   <a class="scrollTo scroll-down" href="#tools"><i class="fa fa-angle-down fa-lg"></i></a> -->
+            </div>
+    </div>
+
+
+    <div class="scrollblock block-tools" id="tools" style="height:900px !important">
+        <div class="container">
+            <h1>系统使用的服务器</h1>
+                <div class="col-sm-4 col-md-4" style="margin:0 33.33%">
+                    <div class="thumbnail">
+                          <img data-src="/images/DN3.jpg" src="/images/demo-tools-nodejs.png" alt="..." style="padding:15px 0 15px 0">
+                          <div class="caption">
+                            <h3>Node.js</h3>
+                            <p>基于javascript的异步I/O服务器。</p>     
+                          </div>
+                    </div>
+                  
+                </div>
+            </div>
+            <a class="scrollTo scroll-down" href="#abstract1"><i class="fa fa-angle-down fa-lg"></i></a>
+
+        </div>
+    </div>
+
+  
+   
+    <div class="scrollblock block-tools" id="abstract1" style="height:900px !important">
+        <div class="container">
+            <h1>概要设计-1</h1>            
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="thumbnail">
+                          <img data-src="/images/demo-deploy.png" src="/images/demo-deploy.png" alt="..." style="width:800px">
+                          <div class="caption">
+                                       <h3>物理部署图</h3>
+                            
+                          </div>
+                    </div>    
+                </div>                
+            </div>
+        </div>
+       <!--  <a class="scrollTo scroll-down" href="#abstract2"><i class="fa fa-angle-down fa-lg"></i></a> -->
+    </div>
+    
+    <div class="scrollblock block-tools" id="abstract2" style="height:900px !important">
+        <div class="container">
+            <h1>概要设计-2</h1>            
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="thumbnail">
+                          <img data-src="/images/demo-deploy.png" src="/images/demo-composite.png" alt="..." style="width:800px">
+                          <div class="caption">
+                                       <h3>构件图</h3>
+                            
+                          </div>
+                    </div>    
+                </div>                
+            </div>
+                    <a class="scrollTo scroll-down" href="#conclusion"><i class="fa fa-angle-down fa-lg"></i></a>
+
+        </div>
+    </div>
+
+    <div class="scrollblock block-conclusion" id="conclusion" style="height:900px !important">
+        <div class="container">
+            <h1>将来要做的事</h1>
+            </br>
+            </br>
+            <h3>
+            <li>开发者社交网络群组的聚集</li></br>
+            <li>开发者的中心度与文件产生缺陷之间的关系</li>
+            </br>
+            <li>网络中开发者之间是否存在关系对文件出现缺陷的影响</li>
+            </h3>
+        </div>
+    </div>
+
+
+
+    <!-- </div> -->
+
+    <script type="text/javascript" src="/javascripts/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/javascripts/d3.v3.min.js"></script>
+    <script type="text/javascript" src="/javascripts/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="/javascripts/jquery.stellar.min.js"></script>
+    <script type="text/javascript" src="/javascripts/scroll.js"></script>
+</body>
+</html>

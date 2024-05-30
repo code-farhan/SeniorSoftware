@@ -1,0 +1,52 @@
+[
+    {
+        "developer1": "dd32",
+        "developer2": "ryan",
+        "count": 1
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 17
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "ryan",
+        "count": 26
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "ryan",
+        "count": 1
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 6
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 2
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "westi",
+        "count": 5
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "markjaquith",
+        "count": 1
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "ryan",
+        "count": 1
+    }
+]

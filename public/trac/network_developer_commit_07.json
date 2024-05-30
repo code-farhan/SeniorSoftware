@@ -1,0 +1,27 @@
+[
+    {
+        "developer1": "daniel",
+        "developer2": "jonas",
+        "count": 49
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "daniel",
+        "count": 25
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "jonas",
+        "count": 20
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "rocky",
+        "count": 2
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "rocky",
+        "count": 2
+    }
+]

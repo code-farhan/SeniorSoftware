@@ -1,0 +1,57 @@
+[
+    {
+        "developer1": "cmlenz",
+        "developer2": "daniel",
+        "count": 70
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "utopiste",
+        "count": 22
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "utopiste",
+        "count": 19
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "jonas",
+        "count": 64
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "jonas",
+        "count": 43
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "utopiste",
+        "count": 17
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "rocky",
+        "count": 1
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "rocky",
+        "count": 1
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "mrowe",
+        "count": 1
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "mrowe",
+        "count": 1
+    }
+]

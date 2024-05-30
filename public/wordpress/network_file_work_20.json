@@ -1,0 +1,5192 @@
+[
+    {
+        "file1": "wp-includes/formatting.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 20
+    },
+    {
+        "file1": "js/tinymce/tiny_mce.js",
+        "file2": "wp-includes/formatting.php",
+        "count": 2
+    },
+    {
+        "file1": "js/tinymce/tiny_mce.js",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "js/tinymce/wp-tinymce.js.gz",
+        "file2": "wp-includes/formatting.php",
+        "count": 2
+    },
+    {
+        "file1": "js/tinymce/wp-tinymce.js.gz",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "version.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 2
+    },
+    {
+        "file1": "version.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-blog-header.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/comment-functions.php",
+        "file2": "wp-includes/comment.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/admin-footer.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-footer.php",
+        "file2": "wp-settings.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-settings.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/feed-functions.php",
+        "file2": "wp-includes/feed.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "xmlrpc.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/classes.php",
+        "file2": "wp-settings.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "admin-header.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "categories.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "edit-pages.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "link-categories.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "link-manager.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "list-manipulation.js",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "list-manipulation.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "moderation.php",
+        "file2": "wp-admin/list-manipulation.js",
+        "count": 1
+    },
+    {
+        "file1": "page-new.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "page-new.php",
+        "file2": "post-new.php",
+        "count": 1
+    },
+    {
+        "file1": "page-new.php",
+        "file2": "post.php",
+        "count": 2
+    },
+    {
+        "file1": "page.php",
+        "file2": "post.php",
+        "count": 2
+    },
+    {
+        "file1": "post-new.php",
+        "file2": "post.php",
+        "count": 2
+    },
+    {
+        "file1": "gettext.php",
+        "file2": "streams.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/profile.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/registration-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/functions-post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-db.php",
+        "file2": "wp-admin/upgrade-schema.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/install.php",
+        "file2": "wp-admin/upgrade-schema.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/upgrade-schema.php",
+        "file2": "wp-includes/functions-post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/import/blogger.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/import/blogger.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import.php",
+        "file2": "wp-admin/import/blogger.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/import.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/import.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 3
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 3
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 3
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/inline-uploading.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/install.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/install.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/install.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/install.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/post.php",
+        "count": 3
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/users.php",
+        "file2": "wp-content/plugins/wp-db-backup.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/users.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-admin/users.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-admin/users.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-content/plugins/wp-db-backup.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "blogger.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "textpattern.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/classes.php",
+        "file2": "wp-includes/template-functions-category.php",
+        "count": 1
+    },
+    {
+        "file1": "langs/en.js",
+        "file2": "plugins/wordpress/langs/en.js",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/general-template.php",
+        "file2": "wp-includes/template-functions-general.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/edit-pages.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/edit-pages.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-admin/edit.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-admin/upgrade-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-admin/upgrade-schema.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-includes/capabilities.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-includes/version.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/author-template.php",
+        "file2": "wp-includes/template-functions-author.php",
+        "count": 4
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "wp-admin/plugins.php",
+        "count": 4
+    },
+    {
+        "file1": "plugins.php",
+        "file2": "wp-admin/plugins.php",
+        "count": 4
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "plugins.php",
+        "count": 4
+    },
+    {
+        "file1": "options.php",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/category.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/classes.php",
+        "file2": "wp-includes/query.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/comment.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-comments-post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/comment.php",
+        "file2": "wp-comments-post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/options.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/wp-admin.css",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/functions.php",
+        "count": 11
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/user.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-admin/wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/functions.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/user.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/wp-admin.css",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/wp-admin.css",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/wp-admin.css",
+        "file2": "wp-includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/wp-admin.css",
+        "file2": "wp-includes/user.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/user.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/wp-admin.css",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/pluggable-functions.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 13
+    },
+    {
+        "file1": "wp-includes/pluggable-functions.php",
+        "file2": "wp-includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/pluggable-functions.php",
+        "file2": "wp-includes/user.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-admin/upgrade-schema.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-includes/version.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/class-wp.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment-functions.php",
+        "file2": "wp-includes/comment-template.php",
+        "count": 5
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "functions-compat.php",
+        "count": 3
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "functions.php",
+        "count": 3
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "pluggable-functions.php",
+        "count": 3
+    },
+    {
+        "file1": "categories.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "categories.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "categories.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "functions-compat.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "functions.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "pluggable-functions.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "inline-uploading.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "inline-uploading.php",
+        "count": 2
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "link-manager.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "link.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "link.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "moderation.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "moderation.php",
+        "count": 1
+    },
+    {
+        "file1": "moderation.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-discussion.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-discussion.php",
+        "count": 1
+    },
+    {
+        "file1": "options-discussion.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-general.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-general.php",
+        "count": 1
+    },
+    {
+        "file1": "options-general.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-misc.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-misc.php",
+        "count": 1
+    },
+    {
+        "file1": "options-misc.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-permalink.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-permalink.php",
+        "count": 1
+    },
+    {
+        "file1": "options-permalink.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-reading.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-reading.php",
+        "count": 1
+    },
+    {
+        "file1": "options-reading.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options-writing.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options-writing.php",
+        "count": 1
+    },
+    {
+        "file1": "options-writing.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "options.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "options.php",
+        "count": 1
+    },
+    {
+        "file1": "options.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "post.php",
+        "count": 2
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "link-import.php",
+        "count": 3
+    },
+    {
+        "file1": "categories.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "link-import.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "link-import.php",
+        "count": 2
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "link.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "moderation.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-discussion.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-general.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-misc.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-permalink.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-reading.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options-writing.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "options.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "user-edit.php",
+        "count": 4
+    },
+    {
+        "file1": "categories.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "user-edit.php",
+        "count": 5
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "edit.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "link-manager.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "moderation.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-discussion.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-general.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-misc.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-permalink.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-reading.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options-writing.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "options.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "plugin-editor.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "plugins.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "profile-update.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "profile.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "templates.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "theme-editor.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "themes.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "user-edit.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-compat.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-admin/comment.php",
+        "count": 3
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-admin/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "wp-admin/comment.php",
+        "count": 3
+    },
+    {
+        "file1": "categories.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "wp-admin/comment.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "wp-admin/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "link-manager.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "moderation.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-discussion.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-general.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-misc.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-permalink.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-reading.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options-writing.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "options.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "plugin-editor.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "plugins.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "profile-update.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "profile.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "templates.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "theme-editor.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "themes.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "users.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "link-import.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "user-edit.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "functions-compat.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-comments.js",
+        "count": 3
+    },
+    {
+        "file1": "categories.php",
+        "file2": "edit-comments.js",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "edit-comments.js",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit-comments.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit-form-advanced.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit-link-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "edit.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "link.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "moderation.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-discussion.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-general.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-misc.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-permalink.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-reading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options-writing.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "options.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "link-import.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.js",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "inline-uploading.php",
+        "count": 5
+    },
+    {
+        "file1": "categories.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "inline-uploading.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "inline-uploading.php",
+        "count": 3
+    },
+    {
+        "file1": "edit.php",
+        "file2": "inline-uploading.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "link.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "moderation.php",
+        "count": 3
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-discussion.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-general.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-misc.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-permalink.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-reading.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options-writing.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "options.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "plugin-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "plugins.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "profile.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "templates.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "theme-editor.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "themes.php",
+        "count": 1
+    },
+    {
+        "file1": "inline-uploading.php",
+        "file2": "users.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "categories.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "comment.php",
+        "count": 5
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-comments.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-form-advanced.php",
+        "count": 11
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-form-comment.php",
+        "count": 6
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-link-form.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-page-form.php",
+        "count": 7
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "link-manager.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "link.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "moderation.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-discussion.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-general.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-misc.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-permalink.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-reading.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options-writing.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "options.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "page.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "plugin-editor.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "post.php",
+        "count": 4
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "profile-update.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "profile.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "templates.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "theme-editor.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "themes.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "users.php",
+        "count": 2
+    },
+    {
+        "file1": "categories.php",
+        "file2": "edit-form-advanced.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "edit-form-advanced.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-comments.php",
+        "file2": "edit-form-advanced.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "edit-form-comment.php",
+        "count": 8
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "edit-link-form.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "edit-page-form.php",
+        "count": 11
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "edit.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "link-manager.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "link.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "moderation.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-discussion.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-general.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-misc.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-permalink.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-reading.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options-writing.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "options.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "page.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "plugin-editor.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "plugins.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "post.php",
+        "count": 7
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "profile-update.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "profile.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "templates.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "theme-editor.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "themes.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "users.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/functions-post.php",
+        "file2": "wp-includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "formatting.php",
+        "file2": "functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 2
+    },
+    {
+        "file1": "formatting.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-formatting.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 2
+    },
+    {
+        "file1": "formatting.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "functions-formatting.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/wp-db.php",
+        "file2": "wp-settings.php",
+        "count": 6
+    },
+    {
+        "file1": "attachment.php",
+        "file2": "page.php",
+        "count": 2
+    },
+    {
+        "file1": "attachment.php",
+        "file2": "single.php",
+        "count": 2
+    },
+    {
+        "file1": "page.php",
+        "file2": "single.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-admin/page.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-admin/profile-update.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-admin/wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-admin/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-admin/profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-admin/wp-admin.css",
+        "count": 1
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/comment.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/functions.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/functions.php",
+        "count": 11
+    },
+    {
+        "file1": "wp-admin/profile-update.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "pluggable.php",
+        "file2": "wp-includes/functions.php",
+        "count": 2
+    },
+    {
+        "file1": "functions.php",
+        "file2": "pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-admin/profile-update.php",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-admin/wp-admin.css",
+        "count": 1
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "pluggable-functions.php",
+        "file2": "wp-includes/functions.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "edit-form-comment.php",
+        "count": 5
+    },
+    {
+        "file1": "comment.php",
+        "file2": "post.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "post.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/comment.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "functions-formatting.php",
+        "file2": "functions.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-db.php",
+        "file2": "wp-admin/link-categories.php",
+        "count": 1
+    },
+    {
+        "file1": "categories.php",
+        "file2": "wp-admin/link-categories.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/functions.php",
+        "count": 7
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-comment.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-comment.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/edit-form-comment.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-comment.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/edit-form-comment.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form.php",
+        "file2": "wp-includes/functions.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/edit-form.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/edit-form.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/functions.php",
+        "count": 7
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/options.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/functions.php",
+        "count": 7
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/functions.php",
+        "count": 9
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options.php",
+        "file2": "wp-pass.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-pass.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-includes/pluggable.php",
+        "file2": "wp-pass.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-includes/pluggable-functions.php",
+        "file2": "wp-pass.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "link.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "page.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "upgrade.php",
+        "file2": "wp-pass.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/upgrade-schema.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions-post.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/link-categories.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 3
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/edit-pages.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/link-categories.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/link-categories.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-categories.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit-pages.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-categories.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-bg-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-bg-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-butt-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-butt-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-head-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "wp-admin.css",
+        "count": 4
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "images/box-bg-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "images/box-butt-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "images/box-butt-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "images/box-head-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-left.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-right.gif",
+        "file2": "images/box-butt-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-right.gif",
+        "file2": "images/box-butt-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-right.gif",
+        "file2": "images/box-head-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-right.gif",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-bg-right.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-left.gif",
+        "file2": "images/box-butt-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-left.gif",
+        "file2": "images/box-head-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-left.gif",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-left.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-right.gif",
+        "file2": "images/box-head-left.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-right.gif",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-butt-right.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "images/box-head-left.gif",
+        "file2": "images/box-head-right.gif",
+        "count": 2
+    },
+    {
+        "file1": "images/box-head-left.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "images/box-head-right.gif",
+        "file2": "wp-admin.css",
+        "count": 2
+    },
+    {
+        "file1": "edit-link-form.php",
+        "file2": "wp-admin/edit-link-form.php",
+        "count": 1
+    },
+    {
+        "file1": "link-categories.php",
+        "file2": "wp-admin/edit-link-form.php",
+        "count": 1
+    },
+    {
+        "file1": "link-manager.php",
+        "file2": "wp-admin/edit-link-form.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "moderation.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "sidebar.php",
+        "count": 2
+    },
+    {
+        "file1": "dotclear.php",
+        "file2": "textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/theme.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/theme.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/post-template.php",
+        "file2": "wp-includes/template-functions-post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/menu.php",
+        "file2": "wp-admin/users.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/menu.php",
+        "file2": "wp-includes/cron.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/menu.php",
+        "file2": "wp-includes/plugin.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/users.php",
+        "file2": "wp-includes/cron.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/users.php",
+        "file2": "wp-includes/plugin.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/menu.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/users.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/cron.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/plugin.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/blogger.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/blogware.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/dotclear.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/greymatter.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/livejournal.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogger.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/dotclear.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/dotclear.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/greymatter.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/livejournal.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/dotclear.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/greymatter.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/greymatter.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/import/livejournal.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/greymatter.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/livejournal.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/livejournal.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/livejournal.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/mt.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/mt.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/rss.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/rss.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/import/textpattern.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-admin/import/wordpress.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-admin/options-privacy.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-admin/page.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-admin/post.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/textpattern.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/wordpress.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options-privacy.php",
+        "file2": "wp-admin/post.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-admin/post.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/classes.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/edit.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/blogware.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/import/wordpress.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/options-privacy.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/classes.php",
+        "file2": "wp-includes/functions.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-includes/classes.php",
+        "file2": "wp-includes/post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "page.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "post.php",
+        "count": 4
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "post-new.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/upgrade-schema.php",
+        "file2": "wp-includes/version.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/install.php",
+        "file2": "wp-admin/upgrade-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "rewrite.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "version.php",
+        "file2": "wp-includes/classes.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "post-template.php",
+        "count": 1
+    },
+    {
+        "file1": "functions.php",
+        "file2": "template-functions-post.php",
+        "count": 1
+    },
+    {
+        "file1": "post-template.php",
+        "file2": "template-functions-post.php",
+        "count": 1
+    },
+    {
+        "file1": "post.php",
+        "file2": "template-functions-post.php",
+        "count": 1
+    },
+    {
+        "file1": "cache.php",
+        "file2": "wp-db.php",
+        "count": 2
+    },
+    {
+        "file1": "cache.php",
+        "file2": "default-filters.php",
+        "count": 4
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "wp-db.php",
+        "count": 4
+    },
+    {
+        "file1": "cache.php",
+        "file2": "functions.php",
+        "count": 4
+    },
+    {
+        "file1": "functions.php",
+        "file2": "wp-db.php",
+        "count": 4
+    },
+    {
+        "file1": "default-filters.php",
+        "file2": "functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/rss-functions.php",
+        "file2": "wp-includes/rss.php",
+        "count": 1
+    },
+    {
+        "file1": "tiny_mce_gzip.php",
+        "file2": "wp-mce-help.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-comments-post.php",
+        "file2": "wp-includes/comment-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-comments-post.php",
+        "file2": "wp-includes/default-filters.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-comments-post.php",
+        "file2": "wp-includes/functions.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-includes/comment-template.php",
+        "file2": "wp-includes/default-filters.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/comment-template.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/default-filters.php",
+        "file2": "wp-includes/functions.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-comments-post.php",
+        "file2": "wp-includes/comment-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment-functions.php",
+        "file2": "wp-includes/default-filters.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment-functions.php",
+        "file2": "wp-includes/functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/bookmarklet.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/edit-comments.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/page.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/post.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/upload.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/comment.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/edit-comments.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/page.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/post.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/upload.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/comment.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/functions.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/edit-form-advanced.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/edit-page-form.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/link-manager.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/page.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/post.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/page.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/post.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/page.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/post.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/page.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/post.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-admin/upgrade.php",
+        "count": 6
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-admin/upload.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/comment.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-admin/upload-functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-admin/upload.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/comment.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-admin/upload.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/bookmark-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/functions.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/general-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/general-template.php",
+        "file2": "wp-includes/link-template.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/general-template.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/link-template.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/general-template.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/link-template.php",
+        "file2": "wp-includes/links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/links.php",
+        "file2": "wp-includes/script-loader.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/bookmarklet.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-comments.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-form-advanced.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/edit-page-form.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/link-manager.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/page.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/post.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upgrade.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload-functions.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/upload.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/user-edit.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/bookmark-template.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/comment.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/functions.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/general-template.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-includes/link-template.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-includes/script-loader.php",
+        "file2": "wp-includes/template-functions-links.php",
+        "count": 2
+    },
+    {
+        "file1": "wp-admin/includes/user.php",
+        "file2": "wp-includes/formatting.php",
+        "count": 4
+    },
+    {
+        "file1": "wp-admin/includes/user.php",
+        "file2": "wp-includes/functions-formatting.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "edit-form.php",
+        "count": 4
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "includes/taxonomy.php",
+        "count": 2
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "includes/template.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "edit-form.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "includes/taxonomy.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "includes/template.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "edit-form.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "edit-page-form.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "includes/taxonomy.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "includes/template.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "edit-form.php",
+        "count": 4
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "edit-page-form.php",
+        "count": 6
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "includes/taxonomy.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "includes/template.php",
+        "count": 2
+    },
+    {
+        "file1": "comment.php",
+        "file2": "edit-page-form.php",
+        "count": 4
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "includes/comment.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "includes/post.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "includes/taxonomy.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "includes/template.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "post.php",
+        "count": 2
+    },
+    {
+        "file1": "includes/comment.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/post.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/taxonomy.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/template.php",
+        "file2": "post.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "edit-form-advanced.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form-comment.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "edit-page-form.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 3
+    },
+    {
+        "file1": "includes/comment.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/post.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/taxonomy.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/template.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "admin-functions.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "post.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "includes/comment.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "includes/post.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "includes/taxonomy.php",
+        "count": 1
+    },
+    {
+        "file1": "comment.php",
+        "file2": "includes/template.php",
+        "count": 1
+    },
+    {
+        "file1": "edit-form.php",
+        "file2": "user-edit.php",
+        "count": 2
+    },
+    {
+        "file1": "includes/comment.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/post.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/taxonomy.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "includes/template.php",
+        "file2": "user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "user-edit.php",
+        "file2": "wp-admin/user-edit.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-admin/admin-functions.php",
+        "file2": "wp-admin/includes/comment.php",
+        "count": 8
+    },
+    {
+        "file1": "wp-includes/pluggable.php",
+        "file2": "wp-login.php",
+        "count": 5
+    },
+    {
+        "file1": "wp-includes/pluggable-functions.php",
+        "file2": "wp-login.php",
+        "count": 1
+    },
+    {
+        "file1": "wp-login.php",
+        "file2": "wp-pass.php",
+        "count": 2
+    },
+    {
+        "file1": "classic/comments.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "classic/comments.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    },
+    {
+        "file1": "default/comments.php",
+        "file2": "wp-includes/pluggable.php",
+        "count": 2
+    },
+    {
+        "file1": "default/comments.php",
+        "file2": "wp-includes/pluggable-functions.php",
+        "count": 2
+    }
+]

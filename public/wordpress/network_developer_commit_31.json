@@ -1,0 +1,217 @@
+[
+    {
+        "developer1": "azaozz",
+        "developer2": "markjaquith",
+        "count": 13
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nacin",
+        "count": 15
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nacin",
+        "count": 144
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "ryan",
+        "count": 15
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 123
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "ryan",
+        "count": 279
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "westi",
+        "count": 8
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 64
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "westi",
+        "count": 133
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 114
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "scribu",
+        "count": 99
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "scribu",
+        "count": 194
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "scribu",
+        "count": 154
+    },
+    {
+        "developer1": "scribu",
+        "developer2": "westi",
+        "count": 94
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "markjaquith",
+        "count": 40
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nacin",
+        "count": 60
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "ryan",
+        "count": 59
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "scribu",
+        "count": 50
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "westi",
+        "count": 35
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "PeteMall",
+        "count": 5
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "PeteMall",
+        "count": 13
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "PeteMall",
+        "count": 28
+    },
+    {
+        "developer1": "PeteMall",
+        "developer2": "ryan",
+        "count": 26
+    },
+    {
+        "developer1": "PeteMall",
+        "developer2": "scribu",
+        "count": 17
+    },
+    {
+        "developer1": "PeteMall",
+        "developer2": "westi",
+        "count": 15
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nbachiyski",
+        "count": 6
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nbachiyski",
+        "count": 15
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "nbachiyski",
+        "count": 21
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "ryan",
+        "count": 17
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "scribu",
+        "count": 15
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "westi",
+        "count": 11
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "scribu",
+        "count": 12
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "potbot",
+        "count": 1
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "dd32",
+        "count": 4
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nbachiyski",
+        "count": 1
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "PeteMall",
+        "count": 1
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "PeteMall",
+        "count": 1
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "josephscott",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "markjaquith",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "nacin",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "ryan",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "scribu",
+        "count": 1
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "westi",
+        "count": 1
+    }
+]

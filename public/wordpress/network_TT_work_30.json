@@ -1,0 +1,332 @@
+[
+    {
+        "developer1": "dd32",
+        "developer2": "nacin",
+        "count": 17968
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nbachiyski",
+        "count": 6020
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "ryan",
+        "count": 19586
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "westi",
+        "count": 8683
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "nbachiyski",
+        "count": 9432
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "ryan",
+        "count": 30078
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "westi",
+        "count": 13051
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "westi",
+        "count": 4204
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 14588
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "iammattthomas",
+        "count": 854
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "nacin",
+        "count": 1368
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "westi",
+        "count": 914
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "wpmuguru",
+        "count": 11721
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "wpmuguru",
+        "count": 18066
+    },
+    {
+        "developer1": "westi",
+        "developer2": "wpmuguru",
+        "count": 8566
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "josephscott",
+        "count": 773
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "nacin",
+        "count": 1179
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "westi",
+        "count": 564
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "markjaquith",
+        "count": 6363
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nacin",
+        "count": 10132
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 4484
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 11109
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "wpmuguru",
+        "count": 6693
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "wpmuguru",
+        "count": 19827
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nbachiyski",
+        "count": 3417
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "ryan",
+        "count": 10435
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "matt",
+        "count": 380
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "matt",
+        "count": 202
+    },
+    {
+        "developer1": "matt",
+        "developer2": "nacin",
+        "count": 572
+    },
+    {
+        "developer1": "matt",
+        "developer2": "ryan",
+        "count": 575
+    },
+    {
+        "developer1": "matt",
+        "developer2": "westi",
+        "count": 250
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "markjaquith",
+        "count": 315
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "ryan",
+        "count": 1949
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "dd32",
+        "count": 2425
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "markjaquith",
+        "count": 1355
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nacin",
+        "count": 3722
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "ryan",
+        "count": 3755
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "westi",
+        "count": 1595
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "markjaquith",
+        "count": 448
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "ryan",
+        "count": 1311
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "nacin",
+        "count": 281
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "ryan",
+        "count": 289
+    },
+    {
+        "developer1": "nbachiyski",
+        "developer2": "wpmuguru",
+        "count": 5791
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "wpmuguru",
+        "count": 466
+    },
+    {
+        "developer1": "matt",
+        "developer2": "wpmuguru",
+        "count": 337
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "wpmuguru",
+        "count": 2206
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "wpmuguru",
+        "count": 822
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "wpmuguru",
+        "count": 213
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "nbachiyski",
+        "count": 527
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "nbachiyski",
+        "count": 370
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "josephscott",
+        "count": 39
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "westi",
+        "count": 138
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "donncha",
+        "count": 188
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nbachiyski",
+        "count": 1281
+    },
+    {
+        "developer1": "matt",
+        "developer2": "nbachiyski",
+        "count": 194
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "nbachiyski",
+        "count": 79
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "markjaquith",
+        "count": 83
+    },
+    {
+        "developer1": "iammattthomas",
+        "developer2": "matt",
+        "count": 4
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "iammattthomas",
+        "count": 45
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "iammattthomas",
+        "count": 3
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "matt",
+        "count": 105
+    },
+    {
+        "developer1": "josephscott",
+        "developer2": "matt",
+        "count": 23
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "matt",
+        "count": 5
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "josephscott",
+        "count": 157
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "donncha",
+        "count": 34
+    },
+    {
+        "developer1": "donncha",
+        "developer2": "josephscott",
+        "count": 13
+    }
+]

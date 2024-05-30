@@ -1,0 +1,32 @@
+[
+    {
+        "developer1": "matt",
+        "developer2": "ryan",
+        "count": 6908
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 4559
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 6896
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "matt",
+        "count": 1759
+    },
+    {
+        "developer1": "matt",
+        "developer2": "westi",
+        "count": 2773
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "westi",
+        "count": 1955
+    }
+]

@@ -1,0 +1,193 @@
+{
+    "nodes": [
+        {
+            "name": "cboos",
+            "group": 0
+        },
+        {
+            "name": "cmlenz",
+            "group": 1
+        },
+        {
+            "name": "daniel",
+            "group": 2
+        },
+        {
+            "name": "ecarter",
+            "group": 3
+        },
+        {
+            "name": "jonas",
+            "group": 4
+        },
+        {
+            "name": "rblank",
+            "group": 5
+        },
+        {
+            "name": "eblot",
+            "group": 6
+        },
+        {
+            "name": "jomae",
+            "group": 7
+        },
+        {
+            "name": "osimons",
+            "group": 8
+        },
+        {
+            "name": "psuter",
+            "group": 9
+        },
+        {
+            "name": "rjollos",
+            "group": 10
+        },
+        {
+            "name": "jruigrok",
+            "group": 11
+        },
+        {
+            "name": "utopiste",
+            "group": 12
+        },
+        {
+            "name": "rocky",
+            "group": 13
+        },
+        {
+            "name": "mgood",
+            "group": 14
+        },
+        {
+            "name": "mrowe",
+            "group": 15
+        },
+        {
+            "name": "athomas",
+            "group": 16
+        },
+        {
+            "name": "nkantrowitz",
+            "group": 17
+        },
+        {
+            "name": "thatch",
+            "group": 18
+        },
+        {
+            "name": "dstoecker",
+            "group": 19
+        },
+        {
+            "name": "jhampton",
+            "group": 20
+        },
+        {
+            "name": "rcorsaro",
+            "group": 21
+        },
+        {
+            "name": "palgarvio",
+            "group": 22
+        },
+        {
+            "name": "erose",
+            "group": 23
+        },
+        {
+            "name": "mblais",
+            "group": 24
+        },
+        {
+            "name": "rduhon",
+            "group": 25
+        },
+        {
+            "name": "peter",
+            "group": 26
+        },
+        {
+            "name": "jordi",
+            "group": 27
+        },
+        {
+            "name": "fschwarz",
+            "group": 28
+        },
+        {
+            "name": "mrelbe",
+            "group": 29
+        },
+        {
+            "name": "wdiestel",
+            "group": 30
+        },
+        {
+            "name": "raragon",
+            "group": 31
+        },
+        {
+            "name": "rmorales",
+            "group": 32
+        },
+        {
+            "name": "itamaro",
+            "group": 33
+        },
+        {
+            "name": "nzoltan",
+            "group": 34
+        },
+        {
+            "name": "narine_martirosyan",
+            "group": 35
+        },
+        {
+            "name": "lgaifax",
+            "group": 36
+        },
+        {
+            "name": "lholst",
+            "group": 37
+        },
+        {
+            "name": "lwatter",
+            "group": 38
+        },
+        {
+            "name": "aprudnikov",
+            "group": 39
+        },
+        {
+            "name": "vezjakv",
+            "group": 40
+        },
+        {
+            "name": "asurion",
+            "group": 41
+        },
+        {
+            "name": "zclin",
+            "group": 42
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 4,
+            "value": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "value": 3
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+mixin menuOfActive(item)
+  - var items = ['demo','wordpress','trac','childprocess']
+  ul.nav.nav-sidebar
+    case item
+      when "wordpress"
+        li: a(href="/demo") 开发者社交网络概要
+        li.active: a(href="/demo/wordpress") 示例项目：wordpress
+        li.sub-menu: a(href="#choice-section") 网络演化分析
+        li.sub-menu: a(href="") 隐患文件分析
+        li.sub-menu: a(href="#table-section") 各版本情况显示
+        li: a(href="/demo/trac") 示例项目：trac
+        li: a(href="/demo/childprocess") 子进程调用演示
+      when "trac"
+        li: a(href="/demo") 开发者社交网络概要
+        li: a(href="/demo/wordpress") 示例项目：wordpress
+        li.active: a(href="/demo/trac") 示例项目：trac
+        li.sub-menu: a(href="#choice-section") 网络演化分析
+        li.sub-menu: a(href="") 隐患文件分析
+        li.sub-menu: a(href="#table-section") 各版本情况显示
+        li: a(href="/demo/childprocess") 子进程调用演示
+      when "demo"
+        li.active: a(href="/demo") 开发者社交网络概要
+        li: a(href="/demo/wordpress") 示例项目：wordpress
+        li: a(href="/demo/trac") 示例项目：trac
+        li: a(href="/demo/childprocess") 子进程调用演示
+      when "demo"
+        li: a(href="/demo") 开发者社交网络概要
+        li: a(href="/demo/wordpress") 示例项目：wordpress
+        li: a(href="/demo/trac") 示例项目：trac
+        li.active: a(href="/demo/childprocess") 子进程调用演示
+

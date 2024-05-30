@@ -1,0 +1,117 @@
+[
+    {
+        "developer1": "cboos",
+        "developer2": "cmlenz",
+        "count": 123
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "jonas",
+        "count": 78
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "jonas",
+        "count": 94
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "mgood",
+        "count": 48
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "mgood",
+        "count": 31
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "utopiste",
+        "count": 6
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "utopiste",
+        "count": 2
+    },
+    {
+        "developer1": "mgood",
+        "developer2": "utopiste",
+        "count": 3
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "mgood",
+        "count": 32
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "utopiste",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "mrowe",
+        "count": 18
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "mrowe",
+        "count": 34
+    },
+    {
+        "developer1": "mgood",
+        "developer2": "mrowe",
+        "count": 11
+    },
+    {
+        "developer1": "jonas",
+        "developer2": "mrowe",
+        "count": 9
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "eblot",
+        "count": 2
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "mgood",
+        "count": 2
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "mrowe",
+        "count": 2
+    },
+    {
+        "developer1": "cmlenz",
+        "developer2": "daniel",
+        "count": 4
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "daniel",
+        "count": 2
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "jonas",
+        "count": 3
+    },
+    {
+        "developer1": "daniel",
+        "developer2": "mgood",
+        "count": 1
+    },
+    {
+        "developer1": "cboos",
+        "developer2": "eblot",
+        "count": 1
+    },
+    {
+        "developer1": "eblot",
+        "developer2": "jonas",
+        "count": 1
+    }
+]

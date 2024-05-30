@@ -1,0 +1,127 @@
+[
+    {
+        "developer1": "nacin",
+        "developer2": "ryan",
+        "count": 45
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "duck_",
+        "count": 1
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "ryan",
+        "count": 6
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "westi",
+        "count": 3
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "nacin",
+        "count": 11
+    },
+    {
+        "developer1": "ryan",
+        "developer2": "scribu",
+        "count": 1
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "nacin",
+        "count": 7
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "nbachiyski",
+        "count": 1
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "duck_",
+        "developer2": "nacin",
+        "count": 12
+    },
+    {
+        "developer1": "duck_",
+        "developer2": "ryan",
+        "count": 9
+    },
+    {
+        "developer1": "duck_",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "nacin",
+        "developer2": "westi",
+        "count": 1
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "ryan",
+        "count": 1
+    },
+    {
+        "developer1": "dd32",
+        "developer2": "nacin",
+        "count": 1
+    },
+    {
+        "developer1": "duck_",
+        "developer2": "koopersmith",
+        "count": 1
+    },
+    {
+        "developer1": "duck_",
+        "developer2": "markjaquith",
+        "count": 1
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "markjaquith",
+        "count": 2
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "nacin",
+        "count": 8
+    },
+    {
+        "developer1": "koopersmith",
+        "developer2": "ryan",
+        "count": 7
+    },
+    {
+        "developer1": "lancewillett",
+        "developer2": "nacin",
+        "count": 1
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "duck_",
+        "count": 2
+    },
+    {
+        "developer1": "azaozz",
+        "developer2": "markjaquith",
+        "count": 1
+    },
+    {
+        "developer1": "markjaquith",
+        "developer2": "ryan",
+        "count": 3
+    }
+]
